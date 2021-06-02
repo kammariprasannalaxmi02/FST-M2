@@ -1,0 +1,1401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,success,failureMessage,bytes,grpThreads,allThreads,Latency,SampleCount,ErrorCount,Hostname
+1622519770834,2237,481 - /selenium (),200,OK,Thread Group 1-7,true,,13017,10,10,2237,1,0,oc1648641228.ibm.com
+1622519773073,58,499 - /selenium/simple-form (),200,OK,Thread Group 1-7,true,,4534,10,10,58,1,0,oc1648641228.ibm.com
+1622519770734,2397,481 - /selenium (),200,OK,Thread Group 1-6,true,,13022,10,10,2397,1,0,oc1648641228.ibm.com
+1622519770935,2196,481 - /selenium (),200,OK,Thread Group 1-8,true,,13025,10,10,2196,1,0,oc1648641228.ibm.com
+1622519771133,1997,481 - /selenium (),200,OK,Thread Group 1-10,true,,13026,10,10,1997,1,0,oc1648641228.ibm.com
+1622519771037,2094,481 - /selenium (),200,OK,Thread Group 1-9,true,,13021,10,10,2094,1,0,oc1648641228.ibm.com
+1622519770626,2506,481 - /selenium (),200,OK,Thread Group 1-2,true,,13025,10,10,2506,1,0,oc1648641228.ibm.com
+1622519770626,2506,481 - /selenium (),200,OK,Thread Group 1-3,true,,13024,10,10,2506,1,0,oc1648641228.ibm.com
+1622519770626,2507,481 - /selenium (),200,OK,Thread Group 1-1,true,,13018,10,10,2507,1,0,oc1648641228.ibm.com
+1622519770633,2501,481 - /selenium (),200,OK,Thread Group 1-5,true,,13012,10,10,2501,1,0,oc1648641228.ibm.com
+1622519770831,2295,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,17551,10,10,2295,1,0,oc1648641228.ibm.com
+1622519770626,2511,481 - /selenium (),200,OK,Thread Group 1-4,true,,13026,10,10,2511,1,0,oc1648641228.ibm.com
+1622519773131,47,499 - /selenium/simple-form (),200,OK,Thread Group 1-6,true,,4534,10,10,47,1,0,oc1648641228.ibm.com
+1622519770731,2444,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,17556,10,10,2444,1,0,oc1648641228.ibm.com
+1622519773133,50,499 - /selenium/simple-form (),200,OK,Thread Group 1-8,true,,4534,10,10,50,1,0,oc1648641228.ibm.com
+1622519773132,51,499 - /selenium/simple-form (),200,OK,Thread Group 1-9,true,,4534,10,10,51,1,0,oc1648641228.ibm.com
+1622519770933,2246,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,17559,10,10,2246,1,0,oc1648641228.ibm.com
+1622519771035,2145,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,17555,10,10,2145,1,0,oc1648641228.ibm.com
+1622519773135,50,508 - /selenium/iframes (),200,OK,Thread Group 1-7,true,,2783,10,10,50,1,0,oc1648641228.ibm.com
+1622519773132,72,499 - /selenium/simple-form (),200,OK,Thread Group 1-10,true,,4534,10,10,72,1,0,oc1648641228.ibm.com
+1622519773134,70,499 - /selenium/simple-form (),200,OK,Thread Group 1-1,true,,4534,10,10,70,1,0,oc1648641228.ibm.com
+1622519773133,71,499 - /selenium/simple-form (),200,OK,Thread Group 1-3,true,,4534,10,10,71,1,0,oc1648641228.ibm.com
+1622519773135,69,499 - /selenium/simple-form (),200,OK,Thread Group 1-5,true,,4534,10,10,69,1,0,oc1648641228.ibm.com
+1622519770233,2577,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,17552,10,10,2577,1,0,oc1648641228.ibm.com
+1622519773133,71,499 - /selenium/simple-form (),200,OK,Thread Group 1-2,true,,4534,10,10,71,1,0,oc1648641228.ibm.com
+1622519770631,2570,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,17546,10,10,2570,1,0,oc1648641228.ibm.com
+1622519770432,2577,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,17558,10,10,2577,1,0,oc1648641228.ibm.com
+1622519770330,2577,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,17559,10,10,2577,1,0,oc1648641228.ibm.com
+1622519771132,2069,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,17560,10,10,2069,1,0,oc1648641228.ibm.com
+1622519773138,66,499 - /selenium/simple-form (),200,OK,Thread Group 1-4,true,,4534,10,10,66,1,0,oc1648641228.ibm.com
+1622519770531,2577,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,17560,10,10,2577,1,0,oc1648641228.ibm.com
+1622519773179,30,508 - /selenium/iframes (),200,OK,Thread Group 1-6,true,,2783,10,10,29,1,0,oc1648641228.ibm.com
+1622519773183,33,508 - /selenium/iframes (),200,OK,Thread Group 1-9,true,,2783,10,10,33,1,0,oc1648641228.ibm.com
+1622519773183,33,508 - /selenium/iframes (),200,OK,Thread Group 1-8,true,,2783,10,10,33,1,0,oc1648641228.ibm.com
+1622519773186,32,515 - /selenium/frame1 (),200,OK,Thread Group 1-7,true,,2176,10,10,32,1,0,oc1648641228.ibm.com
+1622519773205,45,508 - /selenium/iframes (),200,OK,Thread Group 1-2,true,,2783,10,10,45,1,0,oc1648641228.ibm.com
+1622519773205,45,508 - /selenium/iframes (),200,OK,Thread Group 1-4,true,,2783,10,10,45,1,0,oc1648641228.ibm.com
+1622519773205,45,508 - /selenium/iframes (),200,OK,Thread Group 1-3,true,,2783,10,10,45,1,0,oc1648641228.ibm.com
+1622519773205,51,508 - /selenium/iframes (),200,OK,Thread Group 1-5,true,,2783,10,10,51,1,0,oc1648641228.ibm.com
+1622519773205,51,508 - /selenium/iframes (),200,OK,Thread Group 1-1,true,,2783,10,10,51,1,0,oc1648641228.ibm.com
+1622519773209,47,515 - /selenium/frame1 (),200,OK,Thread Group 1-6,true,,2176,10,10,47,1,0,oc1648641228.ibm.com
+1622519773205,53,508 - /selenium/iframes (),200,OK,Thread Group 1-10,true,,2783,10,10,53,1,0,oc1648641228.ibm.com
+1622519773217,46,515 - /selenium/frame1 (),200,OK,Thread Group 1-9,true,,2176,10,10,46,1,0,oc1648641228.ibm.com
+1622519773218,45,516 - /selenium/frame2 (),200,OK,Thread Group 1-7,true,,2183,10,10,45,1,0,oc1648641228.ibm.com
+1622519773217,46,515 - /selenium/frame1 (),200,OK,Thread Group 1-8,true,,2176,10,10,46,1,0,oc1648641228.ibm.com
+1622519773134,127,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,true,,7142,10,10,127,1,0,oc1648641228.ibm.com
+1622519773251,35,515 - /selenium/frame1 (),200,OK,Thread Group 1-2,true,,2176,10,10,35,1,0,oc1648641228.ibm.com
+1622519773251,35,515 - /selenium/frame1 (),200,OK,Thread Group 1-3,true,,2176,10,10,35,1,0,oc1648641228.ibm.com
+1622519773251,35,515 - /selenium/frame1 (),200,OK,Thread Group 1-4,true,,2176,10,10,35,1,0,oc1648641228.ibm.com
+1622519773257,38,516 - /selenium/frame2 (),200,OK,Thread Group 1-6,true,,2183,10,10,38,1,0,oc1648641228.ibm.com
+1622519773178,115,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,true,,7142,10,10,114,1,0,oc1648641228.ibm.com
+1622519773257,39,515 - /selenium/frame1 (),200,OK,Thread Group 1-1,true,,2176,10,10,39,1,0,oc1648641228.ibm.com
+1622519773257,39,515 - /selenium/frame1 (),200,OK,Thread Group 1-5,true,,2176,10,10,39,1,0,oc1648641228.ibm.com
+1622519773263,37,528 - /selenium/login-form (),200,OK,Thread Group 1-7,true,,3845,10,10,37,1,0,oc1648641228.ibm.com
+1622519773259,41,515 - /selenium/frame1 (),200,OK,Thread Group 1-10,true,,2176,10,10,41,1,0,oc1648641228.ibm.com
+1622519773263,37,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,true,,3845,10,10,37,1,0,oc1648641228.ibm.com
+1622519773263,40,516 - /selenium/frame2 (),200,OK,Thread Group 1-9,true,,2183,10,10,40,1,0,oc1648641228.ibm.com
+1622519773263,40,516 - /selenium/frame2 (),200,OK,Thread Group 1-8,true,,2183,10,10,40,1,0,oc1648641228.ibm.com
+1622519773183,119,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,true,,7142,10,10,119,1,0,oc1648641228.ibm.com
+1622519773183,119,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,true,,7142,10,10,119,1,0,oc1648641228.ibm.com
+1622519773287,33,516 - /selenium/frame2 (),200,OK,Thread Group 1-2,true,,2183,10,10,33,1,0,oc1648641228.ibm.com
+1622519773287,34,516 - /selenium/frame2 (),200,OK,Thread Group 1-4,true,,2183,10,10,34,1,0,oc1648641228.ibm.com
+1622519773287,34,516 - /selenium/frame2 (),200,OK,Thread Group 1-3,true,,2183,10,10,34,1,0,oc1648641228.ibm.com
+1622519773205,113,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,true,,7142,10,10,113,1,0,oc1648641228.ibm.com
+1622519773205,114,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,true,,7142,10,10,114,1,0,oc1648641228.ibm.com
+1622519773204,114,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,true,,7142,10,10,114,1,0,oc1648641228.ibm.com
+1622519773296,31,528 - /selenium/login-form (),200,OK,Thread Group 1-6,true,,3845,10,10,31,1,0,oc1648641228.ibm.com
+1622519773295,31,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,true,,3845,10,10,31,1,0,oc1648641228.ibm.com
+1622519773296,42,516 - /selenium/frame2 (),200,OK,Thread Group 1-1,true,,2183,10,10,42,1,0,oc1648641228.ibm.com
+1622519773297,41,516 - /selenium/frame2 (),200,OK,Thread Group 1-5,true,,2183,10,10,41,1,0,oc1648641228.ibm.com
+1622519773204,132,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,true,,7142,10,10,132,1,0,oc1648641228.ibm.com
+1622519773204,131,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,true,,7142,10,10,131,1,0,oc1648641228.ibm.com
+1622519773301,41,537 - /selenium/tables (),200,OK,Thread Group 1-7,true,,6339,10,10,41,1,0,oc1648641228.ibm.com
+1622519773301,49,516 - /selenium/frame2 (),200,OK,Thread Group 1-10,true,,2183,10,10,49,1,0,oc1648641228.ibm.com
+1622519773304,46,528 - /selenium/login-form (),200,OK,Thread Group 1-9,true,,3845,10,10,46,1,0,oc1648641228.ibm.com
+1622519773304,46,528 - /selenium/login-form (),200,OK,Thread Group 1-8,true,,3845,10,10,46,1,0,oc1648641228.ibm.com
+1622519773205,143,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,true,,7142,10,10,143,1,0,oc1648641228.ibm.com
+1622519773303,46,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,true,,3845,10,10,46,1,0,oc1648641228.ibm.com
+1622519773304,46,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,true,,3845,10,10,46,1,0,oc1648641228.ibm.com
+1622519773322,40,528 - /selenium/login-form (),200,OK,Thread Group 1-4,true,,3845,10,10,40,1,0,oc1648641228.ibm.com
+1622519773322,40,528 - /selenium/login-form (),200,OK,Thread Group 1-2,true,,3845,10,10,40,1,0,oc1648641228.ibm.com
+1622519773322,40,528 - /selenium/login-form (),200,OK,Thread Group 1-3,true,,3845,10,10,40,1,0,oc1648641228.ibm.com
+1622519773321,40,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,true,,3845,10,10,40,1,0,oc1648641228.ibm.com
+1622519773321,40,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,true,,3845,10,10,40,1,0,oc1648641228.ibm.com
+1622519773321,40,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,true,,3845,10,10,40,1,0,oc1648641228.ibm.com
+1622519773328,37,537 - /selenium/tables (),200,OK,Thread Group 1-6,true,,6339,10,10,37,1,0,oc1648641228.ibm.com
+1622519773343,31,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-7,true,,12544,10,10,31,1,0,oc1648641228.ibm.com
+1622519773301,72,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,18883,10,10,72,1,0,oc1648641228.ibm.com
+1622519773339,39,528 - /selenium/login-form (),200,OK,Thread Group 1-1,true,,3845,10,10,39,1,0,oc1648641228.ibm.com
+1622519773339,39,528 - /selenium/login-form (),200,OK,Thread Group 1-5,true,,3845,10,10,39,1,0,oc1648641228.ibm.com
+1622519773339,39,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3845,10,10,39,1,0,oc1648641228.ibm.com
+1622519773339,39,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,true,,3845,10,10,39,1,0,oc1648641228.ibm.com
+1622519773352,35,537 - /selenium/tables (),200,OK,Thread Group 1-8,true,,6339,10,10,35,1,0,oc1648641228.ibm.com
+1622519773352,38,537 - /selenium/tables (),200,OK,Thread Group 1-9,true,,6339,10,10,38,1,0,oc1648641228.ibm.com
+1622519773352,42,528 - /selenium/login-form (),200,OK,Thread Group 1-10,true,,3845,10,10,42,1,0,oc1648641228.ibm.com
+1622519773351,42,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,true,,3845,10,10,42,1,0,oc1648641228.ibm.com
+1622519773366,32,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-6,true,,12544,10,10,32,1,0,oc1648641228.ibm.com
+1622519773328,69,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,18883,10,10,69,1,0,oc1648641228.ibm.com
+1622519773363,44,537 - /selenium/tables (),200,OK,Thread Group 1-4,true,,6339,10,10,44,1,0,oc1648641228.ibm.com
+1622519773363,44,537 - /selenium/tables (),200,OK,Thread Group 1-2,true,,6339,10,10,44,1,0,oc1648641228.ibm.com
+1622519773363,44,537 - /selenium/tables (),200,OK,Thread Group 1-3,true,,6339,10,10,44,1,0,oc1648641228.ibm.com
+1622519773376,34,548 - /selenium/upload (),200,OK,Thread Group 1-7,true,,3219,10,10,34,1,0,oc1648641228.ibm.com
+1622519773375,34,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,true,,3219,10,10,34,1,0,oc1648641228.ibm.com
+1622519773379,38,537 - /selenium/tables (),200,OK,Thread Group 1-1,true,,6339,10,10,37,1,0,oc1648641228.ibm.com
+1622519773379,38,537 - /selenium/tables (),200,OK,Thread Group 1-5,true,,6339,10,10,37,1,0,oc1648641228.ibm.com
+1622519773388,31,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-8,true,,12544,10,10,31,1,0,oc1648641228.ibm.com
+1622519773351,66,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,18883,10,10,66,1,0,oc1648641228.ibm.com
+1622519773391,31,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-9,true,,12544,10,10,31,1,0,oc1648641228.ibm.com
+1622519773351,69,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,18883,10,10,69,1,0,oc1648641228.ibm.com
+1622519773399,34,548 - /selenium/upload (),200,OK,Thread Group 1-6,true,,3219,10,10,33,1,0,oc1648641228.ibm.com
+1622519773399,34,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,true,,3219,10,10,33,1,0,oc1648641228.ibm.com
+1622519773395,42,537 - /selenium/tables (),200,OK,Thread Group 1-10,true,,6339,10,10,42,1,0,oc1648641228.ibm.com
+1622519773411,34,481 - /selenium (),200,OK,Thread Group 1-7,true,,12896,10,10,34,1,0,oc1648641228.ibm.com
+1622519773408,42,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-2,true,,12544,10,10,42,1,0,oc1648641228.ibm.com
+1622519773363,86,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,18883,10,10,86,1,0,oc1648641228.ibm.com
+1622519773408,43,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-3,true,,12544,10,10,42,1,0,oc1648641228.ibm.com
+1622519773408,43,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-4,true,,12544,10,10,42,1,0,oc1648641228.ibm.com
+1622519773363,87,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,18883,10,10,86,1,0,oc1648641228.ibm.com
+1622519773363,87,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,18883,10,10,86,1,0,oc1648641228.ibm.com
+1622519773417,38,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-1,true,,12544,10,10,38,1,0,oc1648641228.ibm.com
+1622519773378,76,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,18883,10,10,75,1,0,oc1648641228.ibm.com
+1622519773417,39,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-5,true,,12544,10,10,39,1,0,oc1648641228.ibm.com
+1622519773378,77,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,18883,10,10,76,1,0,oc1648641228.ibm.com
+1622519773420,36,548 - /selenium/upload (),200,OK,Thread Group 1-8,true,,3219,10,10,36,1,0,oc1648641228.ibm.com
+1622519773420,36,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,true,,3219,10,10,36,1,0,oc1648641228.ibm.com
+1622519773423,34,548 - /selenium/upload (),200,OK,Thread Group 1-9,true,,3219,10,10,34,1,0,oc1648641228.ibm.com
+1622519773423,34,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,true,,3219,10,10,34,1,0,oc1648641228.ibm.com
+1622519773433,35,481 - /selenium (),200,OK,Thread Group 1-6,true,,12890,10,10,34,1,0,oc1648641228.ibm.com
+1622519773437,34,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-10,true,,12544,10,10,34,1,0,oc1648641228.ibm.com
+1622519773394,76,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,18883,10,10,76,1,0,oc1648641228.ibm.com
+1622519773445,31,499 - /selenium/simple-form (),200,OK,Thread Group 1-7,true,,4534,10,10,31,1,0,oc1648641228.ibm.com
+1622519773411,65,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,17430,10,10,65,1,0,oc1648641228.ibm.com
+1622519773452,46,548 - /selenium/upload (),200,OK,Thread Group 1-4,true,,3219,10,10,46,1,0,oc1648641228.ibm.com
+1622519773452,46,548 - /selenium/upload (),200,OK,Thread Group 1-3,true,,3219,10,10,46,1,0,oc1648641228.ibm.com
+1622519773451,47,548 - /selenium/upload (),200,OK,Thread Group 1-2,true,,3219,10,10,47,1,0,oc1648641228.ibm.com
+1622519773452,46,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,true,,3219,10,10,46,1,0,oc1648641228.ibm.com
+1622519773451,46,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,true,,3219,10,10,46,1,0,oc1648641228.ibm.com
+1622519773450,47,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,true,,3219,10,10,47,1,0,oc1648641228.ibm.com
+1622519773458,46,481 - /selenium (),200,OK,Thread Group 1-8,true,,12907,10,10,46,1,0,oc1648641228.ibm.com
+1622519773457,54,548 - /selenium/upload (),200,OK,Thread Group 1-1,true,,3219,10,10,54,1,0,oc1648641228.ibm.com
+1622519773456,54,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3219,10,10,54,1,0,oc1648641228.ibm.com
+1622519773459,52,481 - /selenium (),200,OK,Thread Group 1-9,true,,12900,10,10,52,1,0,oc1648641228.ibm.com
+1622519773469,48,499 - /selenium/simple-form (),200,OK,Thread Group 1-6,true,,4534,10,10,48,1,0,oc1648641228.ibm.com
+1622519773457,60,548 - /selenium/upload (),200,OK,Thread Group 1-5,true,,3219,10,10,60,1,0,oc1648641228.ibm.com
+1622519773433,83,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,17424,10,10,82,1,0,oc1648641228.ibm.com
+1622519773456,60,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,true,,3219,10,10,60,1,0,oc1648641228.ibm.com
+1622519773472,47,548 - /selenium/upload (),200,OK,Thread Group 1-10,true,,3219,10,10,47,1,0,oc1648641228.ibm.com
+1622519773472,47,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,true,,3219,10,10,47,1,0,oc1648641228.ibm.com
+1622519773478,46,508 - /selenium/iframes (),200,OK,Thread Group 1-7,true,,2783,10,10,46,1,0,oc1648641228.ibm.com
+1622519773499,42,481 - /selenium (),200,OK,Thread Group 1-3,true,,12898,10,10,42,1,0,oc1648641228.ibm.com
+1622519773499,42,481 - /selenium (),200,OK,Thread Group 1-2,true,,12896,10,10,42,1,0,oc1648641228.ibm.com
+1622519773499,45,481 - /selenium (),200,OK,Thread Group 1-4,true,,12896,10,10,45,1,0,oc1648641228.ibm.com
+1622519773512,36,481 - /selenium (),200,OK,Thread Group 1-1,true,,12903,10,10,36,1,0,oc1648641228.ibm.com
+1622519773518,38,481 - /selenium (),200,OK,Thread Group 1-5,true,,12894,10,10,38,1,0,oc1648641228.ibm.com
+1622519773505,59,499 - /selenium/simple-form (),200,OK,Thread Group 1-8,true,,4534,10,10,59,1,0,oc1648641228.ibm.com
+1622519773520,44,481 - /selenium (),200,OK,Thread Group 1-10,true,,12899,10,10,44,1,0,oc1648641228.ibm.com
+1622519773457,105,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,17441,10,10,105,1,0,oc1648641228.ibm.com
+1622519773512,55,499 - /selenium/simple-form (),200,OK,Thread Group 1-9,true,,4534,10,10,55,1,0,oc1648641228.ibm.com
+1622519773458,107,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,17434,10,10,107,1,0,oc1648641228.ibm.com
+1622519773517,53,508 - /selenium/iframes (),200,OK,Thread Group 1-6,true,,2783,10,10,53,1,0,oc1648641228.ibm.com
+1622519773525,48,515 - /selenium/frame1 (),200,OK,Thread Group 1-7,true,,2176,10,10,48,1,0,oc1648641228.ibm.com
+1622519773541,42,499 - /selenium/simple-form (),200,OK,Thread Group 1-3,true,,4534,10,10,42,1,0,oc1648641228.ibm.com
+1622519773542,41,499 - /selenium/simple-form (),200,OK,Thread Group 1-2,true,,4534,10,10,41,1,0,oc1648641228.ibm.com
+1622519773498,84,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,17432,10,10,84,1,0,oc1648641228.ibm.com
+1622519773499,83,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,17430,10,10,83,1,0,oc1648641228.ibm.com
+1622519773544,40,499 - /selenium/simple-form (),200,OK,Thread Group 1-4,true,,4534,10,10,40,1,0,oc1648641228.ibm.com
+1622519773498,85,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,17430,10,10,85,1,0,oc1648641228.ibm.com
+1622519773549,38,499 - /selenium/simple-form (),200,OK,Thread Group 1-1,true,,4534,10,10,38,1,0,oc1648641228.ibm.com
+1622519773512,74,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,17437,10,10,74,1,0,oc1648641228.ibm.com
+1622519773556,35,499 - /selenium/simple-form (),200,OK,Thread Group 1-5,true,,4534,10,10,35,1,0,oc1648641228.ibm.com
+1622519773517,73,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,17428,10,10,73,1,0,oc1648641228.ibm.com
+1622519773564,33,508 - /selenium/iframes (),200,OK,Thread Group 1-8,true,,2783,10,10,33,1,0,oc1648641228.ibm.com
+1622519773570,39,515 - /selenium/frame1 (),200,OK,Thread Group 1-6,true,,2176,10,10,39,1,0,oc1648641228.ibm.com
+1622519773564,45,499 - /selenium/simple-form (),200,OK,Thread Group 1-10,true,,4534,10,10,45,1,0,oc1648641228.ibm.com
+1622519773520,89,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,17433,10,10,89,1,0,oc1648641228.ibm.com
+1622519773568,41,508 - /selenium/iframes (),200,OK,Thread Group 1-9,true,,2783,10,10,41,1,0,oc1648641228.ibm.com
+1622519773574,35,516 - /selenium/frame2 (),200,OK,Thread Group 1-7,true,,2183,10,10,35,1,0,oc1648641228.ibm.com
+1622519773477,129,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,true,,7142,10,10,129,1,0,oc1648641228.ibm.com
+1622519773584,36,508 - /selenium/iframes (),200,OK,Thread Group 1-3,true,,2783,10,10,36,1,0,oc1648641228.ibm.com
+1622519773584,36,508 - /selenium/iframes (),200,OK,Thread Group 1-2,true,,2783,10,10,36,1,0,oc1648641228.ibm.com
+1622519773585,36,508 - /selenium/iframes (),200,OK,Thread Group 1-4,true,,2783,10,10,36,1,0,oc1648641228.ibm.com
+1622519773592,36,508 - /selenium/iframes (),200,OK,Thread Group 1-5,true,,2783,10,10,36,1,0,oc1648641228.ibm.com
+1622519773588,41,508 - /selenium/iframes (),200,OK,Thread Group 1-1,true,,2783,10,10,41,1,0,oc1648641228.ibm.com
+1622519773598,33,515 - /selenium/frame1 (),200,OK,Thread Group 1-8,true,,2176,10,10,33,1,0,oc1648641228.ibm.com
+1622519773609,39,516 - /selenium/frame2 (),200,OK,Thread Group 1-6,true,,2183,10,10,39,1,0,oc1648641228.ibm.com
+1622519773610,38,515 - /selenium/frame1 (),200,OK,Thread Group 1-9,true,,2176,10,10,38,1,0,oc1648641228.ibm.com
+1622519773610,38,528 - /selenium/login-form (),200,OK,Thread Group 1-7,true,,3845,10,10,38,1,0,oc1648641228.ibm.com
+1622519773610,38,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,true,,3845,10,10,38,1,0,oc1648641228.ibm.com
+1622519773517,131,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,true,,7142,10,10,131,1,0,oc1648641228.ibm.com
+1622519773609,40,508 - /selenium/iframes (),200,OK,Thread Group 1-10,true,,2783,10,10,40,1,0,oc1648641228.ibm.com
+1622519773621,34,515 - /selenium/frame1 (),200,OK,Thread Group 1-3,true,,2176,10,10,34,1,0,oc1648641228.ibm.com
+1622519773621,34,515 - /selenium/frame1 (),200,OK,Thread Group 1-2,true,,2176,10,10,34,1,0,oc1648641228.ibm.com
+1622519773621,34,515 - /selenium/frame1 (),200,OK,Thread Group 1-4,true,,2176,10,10,34,1,0,oc1648641228.ibm.com
+1622519773630,32,515 - /selenium/frame1 (),200,OK,Thread Group 1-5,true,,2176,10,10,32,1,0,oc1648641228.ibm.com
+1622519773630,33,515 - /selenium/frame1 (),200,OK,Thread Group 1-1,true,,2176,10,10,33,1,0,oc1648641228.ibm.com
+1622519773633,31,516 - /selenium/frame2 (),200,OK,Thread Group 1-8,true,,2183,10,10,31,1,0,oc1648641228.ibm.com
+1622519773564,97,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,true,,7142,10,10,97,1,0,oc1648641228.ibm.com
+1622519773650,37,528 - /selenium/login-form (),200,OK,Thread Group 1-6,true,,3845,10,10,37,1,0,oc1648641228.ibm.com
+1622519773650,38,537 - /selenium/tables (),200,OK,Thread Group 1-7,true,,6339,10,10,38,1,0,oc1648641228.ibm.com
+1622519773649,37,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,true,,3845,10,10,37,1,0,oc1648641228.ibm.com
+1622519773649,45,516 - /selenium/frame2 (),200,OK,Thread Group 1-9,true,,2183,10,10,45,1,0,oc1648641228.ibm.com
+1622519773567,124,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,true,,7142,10,10,124,1,0,oc1648641228.ibm.com
+1622519773650,50,515 - /selenium/frame1 (),200,OK,Thread Group 1-10,true,,2176,10,10,50,1,0,oc1648641228.ibm.com
+1622519773656,51,516 - /selenium/frame2 (),200,OK,Thread Group 1-3,true,,2183,10,10,51,1,0,oc1648641228.ibm.com
+1622519773656,51,516 - /selenium/frame2 (),200,OK,Thread Group 1-2,true,,2183,10,10,51,1,0,oc1648641228.ibm.com
+1622519773656,51,516 - /selenium/frame2 (),200,OK,Thread Group 1-4,true,,2183,10,10,51,1,0,oc1648641228.ibm.com
+1622519773584,121,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,true,,7142,10,10,121,1,0,oc1648641228.ibm.com
+1622519773585,121,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,true,,7142,10,10,121,1,0,oc1648641228.ibm.com
+1622519773584,121,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,true,,7142,10,10,121,1,0,oc1648641228.ibm.com
+1622519773665,48,528 - /selenium/login-form (),200,OK,Thread Group 1-8,true,,3845,10,10,48,1,0,oc1648641228.ibm.com
+1622519773664,49,516 - /selenium/frame2 (),200,OK,Thread Group 1-1,true,,2183,10,10,49,1,0,oc1648641228.ibm.com
+1622519773664,48,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,true,,3845,10,10,48,1,0,oc1648641228.ibm.com
+1622519773663,50,516 - /selenium/frame2 (),200,OK,Thread Group 1-5,true,,2183,10,10,50,1,0,oc1648641228.ibm.com
+1622519773588,123,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,true,,7142,10,10,123,1,0,oc1648641228.ibm.com
+1622519773592,118,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,true,,7142,10,10,118,1,0,oc1648641228.ibm.com
+1622519773688,29,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-7,true,,12544,10,10,29,1,0,oc1648641228.ibm.com
+1622519773649,67,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,18883,10,10,67,1,0,oc1648641228.ibm.com
+1622519773688,31,537 - /selenium/tables (),200,OK,Thread Group 1-6,true,,6339,10,10,31,1,0,oc1648641228.ibm.com
+1622519773708,38,528 - /selenium/login-form (),200,OK,Thread Group 1-4,true,,3845,10,10,38,1,0,oc1648641228.ibm.com
+1622519773708,36,528 - /selenium/login-form (),200,OK,Thread Group 1-2,true,,3845,10,10,36,1,0,oc1648641228.ibm.com
+1622519773708,36,528 - /selenium/login-form (),200,OK,Thread Group 1-3,true,,3845,10,10,36,1,0,oc1648641228.ibm.com
+1622519773707,38,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,true,,3845,10,10,38,1,0,oc1648641228.ibm.com
+1622519773707,36,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,true,,3845,10,10,36,1,0,oc1648641228.ibm.com
+1622519773707,36,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,true,,3845,10,10,36,1,0,oc1648641228.ibm.com
+1622519773695,30,528 - /selenium/login-form (),200,OK,Thread Group 1-9,true,,3845,10,10,30,1,0,oc1648641228.ibm.com
+1622519773695,30,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,true,,3845,10,10,30,1,0,oc1648641228.ibm.com
+1622519773701,32,516 - /selenium/frame2 (),200,OK,Thread Group 1-10,true,,2183,10,10,32,1,0,oc1648641228.ibm.com
+1622519773609,122,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,true,,7142,10,10,122,1,0,oc1648641228.ibm.com
+1622519773714,46,528 - /selenium/login-form (),200,OK,Thread Group 1-5,true,,3845,10,10,45,1,0,oc1648641228.ibm.com
+1622519773718,42,548 - /selenium/upload (),200,OK,Thread Group 1-7,true,,3219,10,10,41,1,0,oc1648641228.ibm.com
+1622519773714,46,537 - /selenium/tables (),200,OK,Thread Group 1-8,true,,6339,10,10,46,1,0,oc1648641228.ibm.com
+1622519773714,46,528 - /selenium/login-form (),200,OK,Thread Group 1-1,true,,3845,10,10,46,1,0,oc1648641228.ibm.com
+1622519773714,46,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,true,,3845,10,10,45,1,0,oc1648641228.ibm.com
+1622519773718,42,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,true,,3219,10,10,41,1,0,oc1648641228.ibm.com
+1622519773714,46,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3845,10,10,46,1,0,oc1648641228.ibm.com
+1622519773720,42,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-6,true,,12544,10,10,42,1,0,oc1648641228.ibm.com
+1622519773688,73,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,18883,10,10,73,1,0,oc1648641228.ibm.com
+1622519773751,37,537 - /selenium/tables (),200,OK,Thread Group 1-4,true,,6339,10,10,37,1,0,oc1648641228.ibm.com
+1622519773751,37,537 - /selenium/tables (),200,OK,Thread Group 1-3,true,,6339,10,10,37,1,0,oc1648641228.ibm.com
+1622519773753,35,537 - /selenium/tables (),200,OK,Thread Group 1-2,true,,6339,10,10,35,1,0,oc1648641228.ibm.com
+1622519773761,37,481 - /selenium (),200,OK,Thread Group 1-7,true,,12892,10,10,37,1,0,oc1648641228.ibm.com
+1622519773761,38,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-8,true,,12544,10,10,38,1,0,oc1648641228.ibm.com
+1622519773713,84,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,18883,10,10,84,1,0,oc1648641228.ibm.com
+1622519773757,48,528 - /selenium/login-form (),200,OK,Thread Group 1-10,true,,3845,10,10,48,1,0,oc1648641228.ibm.com
+1622519773754,51,537 - /selenium/tables (),200,OK,Thread Group 1-9,true,,6339,10,10,51,1,0,oc1648641228.ibm.com
+1622519773761,44,537 - /selenium/tables (),200,OK,Thread Group 1-1,true,,6339,10,10,44,1,0,oc1648641228.ibm.com
+1622519773756,48,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,true,,3845,10,10,48,1,0,oc1648641228.ibm.com
+1622519773761,45,537 - /selenium/tables (),200,OK,Thread Group 1-5,true,,6339,10,10,45,1,0,oc1648641228.ibm.com
+1622519773764,43,548 - /selenium/upload (),200,OK,Thread Group 1-6,true,,3219,10,10,43,1,0,oc1648641228.ibm.com
+1622519773762,43,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,true,,3219,10,10,43,1,0,oc1648641228.ibm.com
+1622519773788,32,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-3,true,,12544,10,10,32,1,0,oc1648641228.ibm.com
+1622519773788,32,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-4,true,,12544,10,10,32,1,0,oc1648641228.ibm.com
+1622519773751,69,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,18883,10,10,69,1,0,oc1648641228.ibm.com
+1622519773751,69,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,18883,10,10,69,1,0,oc1648641228.ibm.com
+1622519773788,32,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-2,true,,12544,10,10,32,1,0,oc1648641228.ibm.com
+1622519773751,67,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,18883,10,10,67,1,0,oc1648641228.ibm.com
+1622519773798,28,499 - /selenium/simple-form (),200,OK,Thread Group 1-7,true,,4534,10,10,28,1,0,oc1648641228.ibm.com
+1622519773760,65,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,17426,10,10,65,1,0,oc1648641228.ibm.com
+1622519773800,29,548 - /selenium/upload (),200,OK,Thread Group 1-8,true,,3219,10,10,29,1,0,oc1648641228.ibm.com
+1622519773799,29,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,true,,3219,10,10,29,1,0,oc1648641228.ibm.com
+1622519773808,31,481 - /selenium (),200,OK,Thread Group 1-6,true,,12901,10,10,31,1,0,oc1648641228.ibm.com
+1622519773806,37,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-9,true,,12544,10,10,37,1,0,oc1648641228.ibm.com
+1622519773806,37,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-5,true,,12544,10,10,37,1,0,oc1648641228.ibm.com
+1622519773806,37,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-1,true,,12544,10,10,37,1,0,oc1648641228.ibm.com
+1622519773760,81,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,18883,10,10,81,1,0,oc1648641228.ibm.com
+1622519773760,82,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,18883,10,10,82,1,0,oc1648641228.ibm.com
+1622519773752,88,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,18883,10,10,88,1,0,oc1648641228.ibm.com
+1622519773806,39,537 - /selenium/tables (),200,OK,Thread Group 1-10,true,,6339,10,10,38,1,0,oc1648641228.ibm.com
+1622519773821,34,548 - /selenium/upload (),200,OK,Thread Group 1-3,true,,3219,10,10,34,1,0,oc1648641228.ibm.com
+1622519773821,34,548 - /selenium/upload (),200,OK,Thread Group 1-2,true,,3219,10,10,34,1,0,oc1648641228.ibm.com
+1622519773821,34,548 - /selenium/upload (),200,OK,Thread Group 1-4,true,,3219,10,10,34,1,0,oc1648641228.ibm.com
+1622519773820,34,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,true,,3219,10,10,34,1,0,oc1648641228.ibm.com
+1622519773820,34,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,true,,3219,10,10,34,1,0,oc1648641228.ibm.com
+1622519773821,34,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,true,,3219,10,10,34,1,0,oc1648641228.ibm.com
+1622519773830,30,481 - /selenium (),200,OK,Thread Group 1-8,true,,12887,10,10,30,1,0,oc1648641228.ibm.com
+1622519773826,36,508 - /selenium/iframes (),200,OK,Thread Group 1-7,true,,2783,10,10,36,1,0,oc1648641228.ibm.com
+1622519773840,29,499 - /selenium/simple-form (),200,OK,Thread Group 1-6,true,,4534,10,10,29,1,0,oc1648641228.ibm.com
+1622519773808,60,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,17435,10,10,60,1,0,oc1648641228.ibm.com
+1622519773844,31,548 - /selenium/upload (),200,OK,Thread Group 1-9,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519773844,31,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519773844,37,548 - /selenium/upload (),200,OK,Thread Group 1-1,true,,3219,10,10,37,1,0,oc1648641228.ibm.com
+1622519773844,37,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3219,10,10,37,1,0,oc1648641228.ibm.com
+1622519773844,37,548 - /selenium/upload (),200,OK,Thread Group 1-5,true,,3219,10,10,37,1,0,oc1648641228.ibm.com
+1622519773844,37,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,true,,3219,10,10,37,1,0,oc1648641228.ibm.com
+1622519773845,37,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-10,true,,12544,10,10,37,1,0,oc1648641228.ibm.com
+1622519773805,76,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,18883,10,10,75,1,0,oc1648641228.ibm.com
+1622519773856,34,481 - /selenium (),200,OK,Thread Group 1-4,true,,12898,10,10,34,1,0,oc1648641228.ibm.com
+1622519773856,35,481 - /selenium (),200,OK,Thread Group 1-2,true,,12894,10,10,34,1,0,oc1648641228.ibm.com
+1622519773856,38,481 - /selenium (),200,OK,Thread Group 1-3,true,,12897,10,10,38,1,0,oc1648641228.ibm.com
+1622519773862,36,515 - /selenium/frame1 (),200,OK,Thread Group 1-7,true,,2176,10,10,35,1,0,oc1648641228.ibm.com
+1622519773861,37,499 - /selenium/simple-form (),200,OK,Thread Group 1-8,true,,4534,10,10,37,1,0,oc1648641228.ibm.com
+1622519773829,67,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,17421,10,10,67,1,0,oc1648641228.ibm.com
+1622519773870,29,508 - /selenium/iframes (),200,OK,Thread Group 1-6,true,,2783,10,10,29,1,0,oc1648641228.ibm.com
+1622519773876,30,481 - /selenium (),200,OK,Thread Group 1-9,true,,12899,10,10,30,1,0,oc1648641228.ibm.com
+1622519773882,35,481 - /selenium (),200,OK,Thread Group 1-5,true,,12898,10,10,34,1,0,oc1648641228.ibm.com
+1622519773882,34,481 - /selenium (),200,OK,Thread Group 1-1,true,,12891,10,10,34,1,0,oc1648641228.ibm.com
+1622519773882,36,548 - /selenium/upload (),200,OK,Thread Group 1-10,true,,3219,10,10,36,1,0,oc1648641228.ibm.com
+1622519773882,36,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,true,,3219,10,10,36,1,0,oc1648641228.ibm.com
+1622519773891,32,499 - /selenium/simple-form (),200,OK,Thread Group 1-2,true,,4534,10,10,32,1,0,oc1648641228.ibm.com
+1622519773891,32,499 - /selenium/simple-form (),200,OK,Thread Group 1-4,true,,4534,10,10,32,1,0,oc1648641228.ibm.com
+1622519773856,67,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,17428,10,10,66,1,0,oc1648641228.ibm.com
+1622519773856,66,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,17432,10,10,66,1,0,oc1648641228.ibm.com
+1622519773898,30,516 - /selenium/frame2 (),200,OK,Thread Group 1-7,true,,2183,10,10,30,1,0,oc1648641228.ibm.com
+1622519773894,34,499 - /selenium/simple-form (),200,OK,Thread Group 1-3,true,,4534,10,10,34,1,0,oc1648641228.ibm.com
+1622519773826,102,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,true,,7142,10,10,101,1,0,oc1648641228.ibm.com
+1622519773856,72,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,17431,10,10,72,1,0,oc1648641228.ibm.com
+1622519773899,30,515 - /selenium/frame1 (),200,OK,Thread Group 1-6,true,,2176,10,10,30,1,0,oc1648641228.ibm.com
+1622519773899,34,508 - /selenium/iframes (),200,OK,Thread Group 1-8,true,,2783,10,10,34,1,0,oc1648641228.ibm.com
+1622519773907,29,499 - /selenium/simple-form (),200,OK,Thread Group 1-9,true,,4534,10,10,29,1,0,oc1648641228.ibm.com
+1622519773875,59,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,17433,10,10,59,1,0,oc1648641228.ibm.com
+1622519773919,36,481 - /selenium (),200,OK,Thread Group 1-10,true,,12896,10,10,35,1,0,oc1648641228.ibm.com
+1622519773917,47,499 - /selenium/simple-form (),200,OK,Thread Group 1-1,true,,4534,10,10,47,1,0,oc1648641228.ibm.com
+1622519773881,81,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,17425,10,10,81,1,0,oc1648641228.ibm.com
+1622519773917,48,499 - /selenium/simple-form (),200,OK,Thread Group 1-5,true,,4534,10,10,48,1,0,oc1648641228.ibm.com
+1622519773882,83,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,17432,10,10,82,1,0,oc1648641228.ibm.com
+1622519773929,47,528 - /selenium/login-form (),200,OK,Thread Group 1-7,true,,3845,10,10,47,1,0,oc1648641228.ibm.com
+1622519773924,52,508 - /selenium/iframes (),200,OK,Thread Group 1-2,true,,2783,10,10,52,1,0,oc1648641228.ibm.com
+1622519773930,46,516 - /selenium/frame2 (),200,OK,Thread Group 1-6,true,,2183,10,10,46,1,0,oc1648641228.ibm.com
+1622519773928,47,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,true,,3845,10,10,47,1,0,oc1648641228.ibm.com
+1622519773870,105,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,true,,7142,10,10,105,1,0,oc1648641228.ibm.com
+1622519773924,53,508 - /selenium/iframes (),200,OK,Thread Group 1-4,true,,2783,10,10,53,1,0,oc1648641228.ibm.com
+1622519773929,49,508 - /selenium/iframes (),200,OK,Thread Group 1-3,true,,2783,10,10,49,1,0,oc1648641228.ibm.com
+1622519773934,46,515 - /selenium/frame1 (),200,OK,Thread Group 1-8,true,,2176,10,10,46,1,0,oc1648641228.ibm.com
+1622519773937,43,508 - /selenium/iframes (),200,OK,Thread Group 1-9,true,,2783,10,10,43,1,0,oc1648641228.ibm.com
+1622519773955,34,499 - /selenium/simple-form (),200,OK,Thread Group 1-10,true,,4534,10,10,34,1,0,oc1648641228.ibm.com
+1622519773918,70,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,17430,10,10,69,1,0,oc1648641228.ibm.com
+1622519773965,36,508 - /selenium/iframes (),200,OK,Thread Group 1-1,true,,2783,10,10,36,1,0,oc1648641228.ibm.com
+1622519773966,35,508 - /selenium/iframes (),200,OK,Thread Group 1-5,true,,2783,10,10,35,1,0,oc1648641228.ibm.com
+1622519773977,41,537 - /selenium/tables (),200,OK,Thread Group 1-7,true,,6339,10,10,41,1,0,oc1648641228.ibm.com
+1622519773977,41,528 - /selenium/login-form (),200,OK,Thread Group 1-6,true,,3845,10,10,41,1,0,oc1648641228.ibm.com
+1622519773976,41,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,true,,3845,10,10,41,1,0,oc1648641228.ibm.com
+1622519773977,46,515 - /selenium/frame1 (),200,OK,Thread Group 1-2,true,,2176,10,10,46,1,0,oc1648641228.ibm.com
+1622519773977,47,515 - /selenium/frame1 (),200,OK,Thread Group 1-4,true,,2176,10,10,47,1,0,oc1648641228.ibm.com
+1622519773979,48,515 - /selenium/frame1 (),200,OK,Thread Group 1-3,true,,2176,10,10,48,1,0,oc1648641228.ibm.com
+1622519773980,47,515 - /selenium/frame1 (),200,OK,Thread Group 1-9,true,,2176,10,10,47,1,0,oc1648641228.ibm.com
+1622519773981,53,516 - /selenium/frame2 (),200,OK,Thread Group 1-8,true,,2183,10,10,53,1,0,oc1648641228.ibm.com
+1622519773898,133,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,true,,7142,10,10,133,1,0,oc1648641228.ibm.com
+1622519773990,49,508 - /selenium/iframes (),200,OK,Thread Group 1-10,true,,2783,10,10,49,1,0,oc1648641228.ibm.com
+1622519774002,42,515 - /selenium/frame1 (),200,OK,Thread Group 1-1,true,,2176,10,10,42,1,0,oc1648641228.ibm.com
+1622519774002,43,515 - /selenium/frame1 (),200,OK,Thread Group 1-5,true,,2176,10,10,43,1,0,oc1648641228.ibm.com
+1622519774019,29,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-7,true,,12544,10,10,29,1,0,oc1648641228.ibm.com
+1622519773976,70,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,18883,10,10,70,1,0,oc1648641228.ibm.com
+1622519774019,31,537 - /selenium/tables (),200,OK,Thread Group 1-6,true,,6339,10,10,31,1,0,oc1648641228.ibm.com
+1622519774024,32,516 - /selenium/frame2 (),200,OK,Thread Group 1-2,true,,2183,10,10,32,1,0,oc1648641228.ibm.com
+1622519773924,130,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,true,,7142,10,10,130,1,0,oc1648641228.ibm.com
+1622519774024,32,516 - /selenium/frame2 (),200,OK,Thread Group 1-4,true,,2183,10,10,32,1,0,oc1648641228.ibm.com
+1622519773924,132,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,true,,7142,10,10,132,1,0,oc1648641228.ibm.com
+1622519774028,31,516 - /selenium/frame2 (),200,OK,Thread Group 1-3,true,,2183,10,10,31,1,0,oc1648641228.ibm.com
+1622519774028,31,516 - /selenium/frame2 (),200,OK,Thread Group 1-9,true,,2183,10,10,31,1,0,oc1648641228.ibm.com
+1622519773928,128,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,true,,7142,10,10,128,1,0,oc1648641228.ibm.com
+1622519773936,121,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,true,,7142,10,10,121,1,0,oc1648641228.ibm.com
+1622519774035,29,528 - /selenium/login-form (),200,OK,Thread Group 1-8,true,,3845,10,10,29,1,0,oc1648641228.ibm.com
+1622519774035,29,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,true,,3845,10,10,29,1,0,oc1648641228.ibm.com
+1622519774040,32,515 - /selenium/frame1 (),200,OK,Thread Group 1-10,true,,2176,10,10,32,1,0,oc1648641228.ibm.com
+1622519774045,33,516 - /selenium/frame2 (),200,OK,Thread Group 1-1,true,,2183,10,10,33,1,0,oc1648641228.ibm.com
+1622519773965,111,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,true,,7142,10,10,111,1,0,oc1648641228.ibm.com
+1622519774046,33,516 - /selenium/frame2 (),200,OK,Thread Group 1-5,true,,2183,10,10,33,1,0,oc1648641228.ibm.com
+1622519773966,111,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,true,,7142,10,10,111,1,0,oc1648641228.ibm.com
+1622519774049,31,548 - /selenium/upload (),200,OK,Thread Group 1-7,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519774048,31,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519774050,34,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-6,true,,12544,10,10,34,1,0,oc1648641228.ibm.com
+1622519774018,65,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,18883,10,10,65,1,0,oc1648641228.ibm.com
+1622519774060,45,528 - /selenium/login-form (),200,OK,Thread Group 1-9,true,,3845,10,10,45,1,0,oc1648641228.ibm.com
+1622519774057,48,528 - /selenium/login-form (),200,OK,Thread Group 1-2,true,,3845,10,10,48,1,0,oc1648641228.ibm.com
+1622519774057,48,528 - /selenium/login-form (),200,OK,Thread Group 1-4,true,,3845,10,10,48,1,0,oc1648641228.ibm.com
+1622519774060,45,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,true,,3845,10,10,45,1,0,oc1648641228.ibm.com
+1622519774056,48,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,true,,3845,10,10,48,1,0,oc1648641228.ibm.com
+1622519774056,48,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,true,,3845,10,10,48,1,0,oc1648641228.ibm.com
+1622519774065,41,537 - /selenium/tables (),200,OK,Thread Group 1-8,true,,6339,10,10,41,1,0,oc1648641228.ibm.com
+1622519774060,45,528 - /selenium/login-form (),200,OK,Thread Group 1-3,true,,3845,10,10,45,1,0,oc1648641228.ibm.com
+1622519774059,45,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,true,,3845,10,10,45,1,0,oc1648641228.ibm.com
+1622519774081,36,481 - /selenium (),200,OK,Thread Group 1-7,true,,12892,10,10,36,1,0,oc1648641228.ibm.com
+1622519774073,55,516 - /selenium/frame2 (),200,OK,Thread Group 1-10,true,,2183,10,10,55,1,0,oc1648641228.ibm.com
+1622519774080,48,528 - /selenium/login-form (),200,OK,Thread Group 1-5,true,,3845,10,10,48,1,0,oc1648641228.ibm.com
+1622519774084,44,548 - /selenium/upload (),200,OK,Thread Group 1-6,true,,3219,10,10,44,1,0,oc1648641228.ibm.com
+1622519774079,49,528 - /selenium/login-form (),200,OK,Thread Group 1-1,true,,3845,10,10,49,1,0,oc1648641228.ibm.com
+1622519774080,48,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,true,,3845,10,10,48,1,0,oc1648641228.ibm.com
+1622519773990,136,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,true,,7142,10,10,136,1,0,oc1648641228.ibm.com
+1622519774084,44,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,true,,3219,10,10,44,1,0,oc1648641228.ibm.com
+1622519774079,49,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3845,10,10,49,1,0,oc1648641228.ibm.com
+1622519774106,33,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-8,true,,12544,10,10,33,1,0,oc1648641228.ibm.com
+1622519774064,74,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,18883,10,10,74,1,0,oc1648641228.ibm.com
+1622519774106,42,537 - /selenium/tables (),200,OK,Thread Group 1-9,true,,6339,10,10,42,1,0,oc1648641228.ibm.com
+1622519774106,42,537 - /selenium/tables (),200,OK,Thread Group 1-2,true,,6339,10,10,42,1,0,oc1648641228.ibm.com
+1622519774106,43,537 - /selenium/tables (),200,OK,Thread Group 1-3,true,,6339,10,10,43,1,0,oc1648641228.ibm.com
+1622519774106,43,537 - /selenium/tables (),200,OK,Thread Group 1-4,true,,6339,10,10,43,1,0,oc1648641228.ibm.com
+1622519774129,41,481 - /selenium (),200,OK,Thread Group 1-6,true,,12898,10,10,40,1,0,oc1648641228.ibm.com
+1622519774118,57,499 - /selenium/simple-form (),200,OK,Thread Group 1-7,true,,4534,10,10,57,1,0,oc1648641228.ibm.com
+1622519774081,93,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,17426,10,10,93,1,0,oc1648641228.ibm.com
+1622519774140,45,548 - /selenium/upload (),200,OK,Thread Group 1-8,true,,3219,10,10,45,1,0,oc1648641228.ibm.com
+1622519774129,56,537 - /selenium/tables (),200,OK,Thread Group 1-1,true,,6339,10,10,56,1,0,oc1648641228.ibm.com
+1622519774139,45,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,true,,3219,10,10,45,1,0,oc1648641228.ibm.com
+1622519774129,56,528 - /selenium/login-form (),200,OK,Thread Group 1-10,true,,3845,10,10,56,1,0,oc1648641228.ibm.com
+1622519774129,57,537 - /selenium/tables (),200,OK,Thread Group 1-5,true,,6339,10,10,56,1,0,oc1648641228.ibm.com
+1622519774128,56,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,true,,3845,10,10,56,1,0,oc1648641228.ibm.com
+1622519774150,41,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-3,true,,12544,10,10,41,1,0,oc1648641228.ibm.com
+1622519774149,42,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-2,true,,12544,10,10,42,1,0,oc1648641228.ibm.com
+1622519774105,84,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,18883,10,10,84,1,0,oc1648641228.ibm.com
+1622519774106,84,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,18883,10,10,84,1,0,oc1648641228.ibm.com
+1622519774150,42,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-4,true,,12544,10,10,42,1,0,oc1648641228.ibm.com
+1622519774149,43,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-9,true,,12544,10,10,43,1,0,oc1648641228.ibm.com
+1622519774105,85,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,18883,10,10,85,1,0,oc1648641228.ibm.com
+1622519774105,85,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,18883,10,10,85,1,0,oc1648641228.ibm.com
+1622519774170,28,499 - /selenium/simple-form (),200,OK,Thread Group 1-6,true,,4534,10,10,28,1,0,oc1648641228.ibm.com
+1622519774128,69,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,17432,10,10,68,1,0,oc1648641228.ibm.com
+1622519774176,29,508 - /selenium/iframes (),200,OK,Thread Group 1-7,true,,2783,10,10,29,1,0,oc1648641228.ibm.com
+1622519774186,32,481 - /selenium (),200,OK,Thread Group 1-8,true,,12897,10,10,32,1,0,oc1648641228.ibm.com
+1622519774186,37,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-1,true,,12544,10,10,37,1,0,oc1648641228.ibm.com
+1622519774128,93,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,18883,10,10,93,1,0,oc1648641228.ibm.com
+1622519774192,44,548 - /selenium/upload (),200,OK,Thread Group 1-2,true,,3219,10,10,44,1,0,oc1648641228.ibm.com
+1622519774192,44,548 - /selenium/upload (),200,OK,Thread Group 1-3,true,,3219,10,10,44,1,0,oc1648641228.ibm.com
+1622519774192,44,548 - /selenium/upload (),200,OK,Thread Group 1-9,true,,3219,10,10,44,1,0,oc1648641228.ibm.com
+1622519774192,44,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,true,,3219,10,10,44,1,0,oc1648641228.ibm.com
+1622519774191,44,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,true,,3219,10,10,44,1,0,oc1648641228.ibm.com
+1622519774191,44,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,true,,3219,10,10,44,1,0,oc1648641228.ibm.com
+1622519774199,39,508 - /selenium/iframes (),200,OK,Thread Group 1-6,true,,2783,10,10,39,1,0,oc1648641228.ibm.com
+1622519774192,44,548 - /selenium/upload (),200,OK,Thread Group 1-4,true,,3219,10,10,44,1,0,oc1648641228.ibm.com
+1622519774192,44,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,true,,3219,10,10,44,1,0,oc1648641228.ibm.com
+1622519774186,41,537 - /selenium/tables (),200,OK,Thread Group 1-10,true,,6339,10,10,41,1,0,oc1648641228.ibm.com
+1622519774206,34,515 - /selenium/frame1 (),200,OK,Thread Group 1-7,true,,2176,10,10,34,1,0,oc1648641228.ibm.com
+1622519774186,39,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-5,true,,12544,10,10,39,1,0,oc1648641228.ibm.com
+1622519774128,96,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,18883,10,10,95,1,0,oc1648641228.ibm.com
+1622519774218,28,499 - /selenium/simple-form (),200,OK,Thread Group 1-8,true,,4534,10,10,28,1,0,oc1648641228.ibm.com
+1622519774185,60,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,17431,10,10,60,1,0,oc1648641228.ibm.com
+1622519774224,29,548 - /selenium/upload (),200,OK,Thread Group 1-1,true,,3219,10,10,29,1,0,oc1648641228.ibm.com
+1622519774223,29,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3219,10,10,29,1,0,oc1648641228.ibm.com
+1622519774239,42,481 - /selenium (),200,OK,Thread Group 1-3,true,,12894,10,10,42,1,0,oc1648641228.ibm.com
+1622519774239,42,481 - /selenium (),200,OK,Thread Group 1-2,true,,12898,10,10,42,1,0,oc1648641228.ibm.com
+1622519774239,42,481 - /selenium (),200,OK,Thread Group 1-9,true,,12893,10,10,42,1,0,oc1648641228.ibm.com
+1622519774240,47,481 - /selenium (),200,OK,Thread Group 1-4,true,,12900,10,10,47,1,0,oc1648641228.ibm.com
+1622519774239,50,515 - /selenium/frame1 (),200,OK,Thread Group 1-6,true,,2176,10,10,50,1,0,oc1648641228.ibm.com
+1622519774254,40,481 - /selenium (),200,OK,Thread Group 1-1,true,,12899,10,10,40,1,0,oc1648641228.ibm.com
+1622519774241,53,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-10,true,,12544,10,10,53,1,0,oc1648641228.ibm.com
+1622519774186,94,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,18883,10,10,94,1,0,oc1648641228.ibm.com
+1622519774241,58,516 - /selenium/frame2 (),200,OK,Thread Group 1-7,true,,2183,10,10,58,1,0,oc1648641228.ibm.com
+1622519774175,121,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,true,,7142,10,10,121,1,0,oc1648641228.ibm.com
+1622519774248,52,508 - /selenium/iframes (),200,OK,Thread Group 1-8,true,,2783,10,10,52,1,0,oc1648641228.ibm.com
+1622519774242,59,548 - /selenium/upload (),200,OK,Thread Group 1-5,true,,3219,10,10,59,1,0,oc1648641228.ibm.com
+1622519774241,59,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,true,,3219,10,10,59,1,0,oc1648641228.ibm.com
+1622519774282,39,499 - /selenium/simple-form (),200,OK,Thread Group 1-9,true,,4534,10,10,39,1,0,oc1648641228.ibm.com
+1622519774282,39,499 - /selenium/simple-form (),200,OK,Thread Group 1-2,true,,4534,10,10,39,1,0,oc1648641228.ibm.com
+1622519774282,39,499 - /selenium/simple-form (),200,OK,Thread Group 1-3,true,,4534,10,10,39,1,0,oc1648641228.ibm.com
+1622519774238,81,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,17427,10,10,81,1,0,oc1648641228.ibm.com
+1622519774238,81,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,17428,10,10,81,1,0,oc1648641228.ibm.com
+1622519774238,81,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,17432,10,10,81,1,0,oc1648641228.ibm.com
+1622519774289,39,516 - /selenium/frame2 (),200,OK,Thread Group 1-6,true,,2183,10,10,39,1,0,oc1648641228.ibm.com
+1622519774198,128,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,true,,7142,10,10,128,1,0,oc1648641228.ibm.com
+1622519774287,41,499 - /selenium/simple-form (),200,OK,Thread Group 1-4,true,,4534,10,10,41,1,0,oc1648641228.ibm.com
+1622519774239,88,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,17434,10,10,88,1,0,oc1648641228.ibm.com
+1622519774301,34,481 - /selenium (),200,OK,Thread Group 1-5,true,,12895,10,10,34,1,0,oc1648641228.ibm.com
+1622519774294,42,499 - /selenium/simple-form (),200,OK,Thread Group 1-1,true,,4534,10,10,42,1,0,oc1648641228.ibm.com
+1622519774254,82,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,17433,10,10,82,1,0,oc1648641228.ibm.com
+1622519774300,41,515 - /selenium/frame1 (),200,OK,Thread Group 1-8,true,,2176,10,10,41,1,0,oc1648641228.ibm.com
+1622519774294,47,548 - /selenium/upload (),200,OK,Thread Group 1-10,true,,3219,10,10,47,1,0,oc1648641228.ibm.com
+1622519774300,41,528 - /selenium/login-form (),200,OK,Thread Group 1-7,true,,3845,10,10,41,1,0,oc1648641228.ibm.com
+1622519774294,47,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,true,,3219,10,10,47,1,0,oc1648641228.ibm.com
+1622519774300,41,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,true,,3845,10,10,41,1,0,oc1648641228.ibm.com
+1622519774322,37,508 - /selenium/iframes (),200,OK,Thread Group 1-9,true,,2783,10,10,37,1,0,oc1648641228.ibm.com
+1622519774322,37,508 - /selenium/iframes (),200,OK,Thread Group 1-3,true,,2783,10,10,37,1,0,oc1648641228.ibm.com
+1622519774322,37,508 - /selenium/iframes (),200,OK,Thread Group 1-2,true,,2783,10,10,37,1,0,oc1648641228.ibm.com
+1622519774328,39,528 - /selenium/login-form (),200,OK,Thread Group 1-6,true,,3845,10,10,39,1,0,oc1648641228.ibm.com
+1622519774328,39,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,true,,3845,10,10,39,1,0,oc1648641228.ibm.com
+1622519774329,39,508 - /selenium/iframes (),200,OK,Thread Group 1-4,true,,2783,10,10,38,1,0,oc1648641228.ibm.com
+1622519774337,40,508 - /selenium/iframes (),200,OK,Thread Group 1-1,true,,2783,10,10,40,1,0,oc1648641228.ibm.com
+1622519774336,41,499 - /selenium/simple-form (),200,OK,Thread Group 1-5,true,,4534,10,10,41,1,0,oc1648641228.ibm.com
+1622519774301,75,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,17429,10,10,75,1,0,oc1648641228.ibm.com
+1622519774342,42,537 - /selenium/tables (),200,OK,Thread Group 1-7,true,,6339,10,10,42,1,0,oc1648641228.ibm.com
+1622519774342,45,516 - /selenium/frame2 (),200,OK,Thread Group 1-8,true,,2183,10,10,44,1,0,oc1648641228.ibm.com
+1622519774247,138,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,true,,7142,10,10,137,1,0,oc1648641228.ibm.com
+1622519774343,44,481 - /selenium (),200,OK,Thread Group 1-10,true,,12899,10,10,44,1,0,oc1648641228.ibm.com
+1622519774360,39,515 - /selenium/frame1 (),200,OK,Thread Group 1-3,true,,2176,10,10,39,1,0,oc1648641228.ibm.com
+1622519774360,39,515 - /selenium/frame1 (),200,OK,Thread Group 1-2,true,,2176,10,10,39,1,0,oc1648641228.ibm.com
+1622519774360,39,515 - /selenium/frame1 (),200,OK,Thread Group 1-9,true,,2176,10,10,39,1,0,oc1648641228.ibm.com
+1622519774368,38,537 - /selenium/tables (),200,OK,Thread Group 1-6,true,,6339,10,10,38,1,0,oc1648641228.ibm.com
+1622519774368,39,515 - /selenium/frame1 (),200,OK,Thread Group 1-4,true,,2176,10,10,38,1,0,oc1648641228.ibm.com
+1622519774378,35,515 - /selenium/frame1 (),200,OK,Thread Group 1-1,true,,2176,10,10,35,1,0,oc1648641228.ibm.com
+1622519774378,36,508 - /selenium/iframes (),200,OK,Thread Group 1-5,true,,2783,10,10,36,1,0,oc1648641228.ibm.com
+1622519774385,32,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-7,true,,12544,10,10,32,1,0,oc1648641228.ibm.com
+1622519774342,74,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,18883,10,10,74,1,0,oc1648641228.ibm.com
+1622519774388,32,528 - /selenium/login-form (),200,OK,Thread Group 1-8,true,,3845,10,10,32,1,0,oc1648641228.ibm.com
+1622519774387,32,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,true,,3845,10,10,32,1,0,oc1648641228.ibm.com
+1622519774388,35,499 - /selenium/simple-form (),200,OK,Thread Group 1-10,true,,4534,10,10,35,1,0,oc1648641228.ibm.com
+1622519774342,79,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,17433,10,10,79,1,0,oc1648641228.ibm.com
+1622519774400,36,516 - /selenium/frame2 (),200,OK,Thread Group 1-2,true,,2183,10,10,36,1,0,oc1648641228.ibm.com
+1622519774400,36,516 - /selenium/frame2 (),200,OK,Thread Group 1-3,true,,2183,10,10,36,1,0,oc1648641228.ibm.com
+1622519774400,37,516 - /selenium/frame2 (),200,OK,Thread Group 1-9,true,,2183,10,10,37,1,0,oc1648641228.ibm.com
+1622519774321,112,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,true,,7142,10,10,112,1,0,oc1648641228.ibm.com
+1622519774321,112,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,true,,7142,10,10,112,1,0,oc1648641228.ibm.com
+1622519774321,113,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,true,,7142,10,10,113,1,0,oc1648641228.ibm.com
+1622519774407,33,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-6,true,,12544,10,10,33,1,0,oc1648641228.ibm.com
+1622519774367,71,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,18883,10,10,71,1,0,oc1648641228.ibm.com
+1622519774407,36,516 - /selenium/frame2 (),200,OK,Thread Group 1-4,true,,2183,10,10,36,1,0,oc1648641228.ibm.com
+1622519774329,114,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,true,,7142,10,10,112,1,0,oc1648641228.ibm.com
+1622519774414,35,516 - /selenium/frame2 (),200,OK,Thread Group 1-1,true,,2183,10,10,35,1,0,oc1648641228.ibm.com
+1622519774336,110,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,true,,7142,10,10,110,1,0,oc1648641228.ibm.com
+1622519774418,36,548 - /selenium/upload (),200,OK,Thread Group 1-7,true,,3219,10,10,36,1,0,oc1648641228.ibm.com
+1622519774417,36,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,true,,3219,10,10,36,1,0,oc1648641228.ibm.com
+1622519774415,39,515 - /selenium/frame1 (),200,OK,Thread Group 1-5,true,,2176,10,10,39,1,0,oc1648641228.ibm.com
+1622519774420,38,537 - /selenium/tables (),200,OK,Thread Group 1-8,true,,6339,10,10,38,1,0,oc1648641228.ibm.com
+1622519774424,37,508 - /selenium/iframes (),200,OK,Thread Group 1-10,true,,2783,10,10,36,1,0,oc1648641228.ibm.com
+1622519774438,38,528 - /selenium/login-form (),200,OK,Thread Group 1-3,true,,3845,10,10,38,1,0,oc1648641228.ibm.com
+1622519774437,39,528 - /selenium/login-form (),200,OK,Thread Group 1-2,true,,3845,10,10,39,1,0,oc1648641228.ibm.com
+1622519774438,38,528 - /selenium/login-form (),200,OK,Thread Group 1-9,true,,3845,10,10,38,1,0,oc1648641228.ibm.com
+1622519774437,38,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,true,,3845,10,10,38,1,0,oc1648641228.ibm.com
+1622519774437,39,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,true,,3845,10,10,39,1,0,oc1648641228.ibm.com
+1622519774437,38,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,true,,3845,10,10,38,1,0,oc1648641228.ibm.com
+1622519774441,38,548 - /selenium/upload (),200,OK,Thread Group 1-6,true,,3219,10,10,38,1,0,oc1648641228.ibm.com
+1622519774440,38,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,true,,3219,10,10,38,1,0,oc1648641228.ibm.com
+1622519774455,36,481 - /selenium (),200,OK,Thread Group 1-7,true,,12885,10,10,36,1,0,oc1648641228.ibm.com
+1622519774444,53,528 - /selenium/login-form (),200,OK,Thread Group 1-4,true,,3845,10,10,53,1,0,oc1648641228.ibm.com
+1622519774443,53,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,true,,3845,10,10,53,1,0,oc1648641228.ibm.com
+1622519774450,49,528 - /selenium/login-form (),200,OK,Thread Group 1-1,true,,3845,10,10,49,1,0,oc1648641228.ibm.com
+1622519774449,49,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3845,10,10,49,1,0,oc1648641228.ibm.com
+1622519774459,41,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-8,true,,12544,10,10,41,1,0,oc1648641228.ibm.com
+1622519774420,79,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,18883,10,10,79,1,0,oc1648641228.ibm.com
+1622519774455,48,516 - /selenium/frame2 (),200,OK,Thread Group 1-5,true,,2183,10,10,48,1,0,oc1648641228.ibm.com
+1622519774378,123,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,true,,7142,10,10,123,1,0,oc1648641228.ibm.com
+1622519774462,43,515 - /selenium/frame1 (),200,OK,Thread Group 1-10,true,,2176,10,10,43,1,0,oc1648641228.ibm.com
+1622519774480,33,481 - /selenium (),200,OK,Thread Group 1-6,true,,12910,10,10,33,1,0,oc1648641228.ibm.com
+1622519774477,43,537 - /selenium/tables (),200,OK,Thread Group 1-2,true,,6339,10,10,43,1,0,oc1648641228.ibm.com
+1622519774477,43,537 - /selenium/tables (),200,OK,Thread Group 1-9,true,,6339,10,10,43,1,0,oc1648641228.ibm.com
+1622519774477,44,537 - /selenium/tables (),200,OK,Thread Group 1-3,true,,6339,10,10,43,1,0,oc1648641228.ibm.com
+1622519774491,34,499 - /selenium/simple-form (),200,OK,Thread Group 1-7,true,,4534,10,10,34,1,0,oc1648641228.ibm.com
+1622519774454,70,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,17419,10,10,70,1,0,oc1648641228.ibm.com
+1622519774498,34,537 - /selenium/tables (),200,OK,Thread Group 1-4,true,,6339,10,10,34,1,0,oc1648641228.ibm.com
+1622519774500,36,537 - /selenium/tables (),200,OK,Thread Group 1-1,true,,6339,10,10,36,1,0,oc1648641228.ibm.com
+1622519774501,39,548 - /selenium/upload (),200,OK,Thread Group 1-8,true,,3219,10,10,39,1,0,oc1648641228.ibm.com
+1622519774501,39,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,true,,3219,10,10,39,1,0,oc1648641228.ibm.com
+1622519774504,41,528 - /selenium/login-form (),200,OK,Thread Group 1-5,true,,3845,10,10,41,1,0,oc1648641228.ibm.com
+1622519774503,41,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,true,,3845,10,10,41,1,0,oc1648641228.ibm.com
+1622519774505,42,516 - /selenium/frame2 (),200,OK,Thread Group 1-10,true,,2183,10,10,42,1,0,oc1648641228.ibm.com
+1622519774423,122,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,true,,7142,10,10,121,1,0,oc1648641228.ibm.com
+1622519774514,38,499 - /selenium/simple-form (),200,OK,Thread Group 1-6,true,,4534,10,10,38,1,0,oc1648641228.ibm.com
+1622519774479,71,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,17444,10,10,71,1,0,oc1648641228.ibm.com
+1622519774521,35,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-3,true,,12544,10,10,35,1,0,oc1648641228.ibm.com
+1622519774521,35,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-2,true,,12544,10,10,35,1,0,oc1648641228.ibm.com
+1622519774476,79,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,18883,10,10,78,1,0,oc1648641228.ibm.com
+1622519774521,35,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-9,true,,12544,10,10,35,1,0,oc1648641228.ibm.com
+1622519774476,78,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,18883,10,10,78,1,0,oc1648641228.ibm.com
+1622519774476,78,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,18883,10,10,78,1,0,oc1648641228.ibm.com
+1622519774526,32,508 - /selenium/iframes (),200,OK,Thread Group 1-7,true,,2783,10,10,32,1,0,oc1648641228.ibm.com
+1622519774532,30,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-4,true,,12544,10,10,30,1,0,oc1648641228.ibm.com
+1622519774497,64,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,18883,10,10,64,1,0,oc1648641228.ibm.com
+1622519774537,30,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-1,true,,12544,10,10,30,1,0,oc1648641228.ibm.com
+1622519774499,66,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,18883,10,10,66,1,0,oc1648641228.ibm.com
+1622519774541,33,481 - /selenium (),200,OK,Thread Group 1-8,true,,12901,10,10,33,1,0,oc1648641228.ibm.com
+1622519774546,40,537 - /selenium/tables (),200,OK,Thread Group 1-5,true,,6339,10,10,39,1,0,oc1648641228.ibm.com
+1622519774587,98,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-5,true,,12544,10,10,98,1,0,oc1648641228.ibm.com
+1622519774546,138,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,18883,10,10,137,1,0,oc1648641228.ibm.com
+1622519774553,248,508 - /selenium/iframes (),200,OK,Thread Group 1-6,true,,2783,10,10,248,1,0,oc1648641228.ibm.com
+1622519774547,254,528 - /selenium/login-form (),200,OK,Thread Group 1-10,true,,3845,10,10,254,1,0,oc1648641228.ibm.com
+1622519774575,226,499 - /selenium/simple-form (),200,OK,Thread Group 1-8,true,,4534,10,10,226,1,0,oc1648641228.ibm.com
+1622519774547,254,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,true,,3845,10,10,254,1,0,oc1648641228.ibm.com
+1622519774541,259,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,17435,10,10,259,1,0,oc1648641228.ibm.com
+1622519774559,242,515 - /selenium/frame1 (),200,OK,Thread Group 1-7,true,,2176,10,10,242,1,0,oc1648641228.ibm.com
+1622519774557,244,548 - /selenium/upload (),200,OK,Thread Group 1-2,true,,3219,10,10,244,1,0,oc1648641228.ibm.com
+1622519774557,244,548 - /selenium/upload (),200,OK,Thread Group 1-3,true,,3219,10,10,244,1,0,oc1648641228.ibm.com
+1622519774557,244,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,true,,3219,10,10,244,1,0,oc1648641228.ibm.com
+1622519774557,244,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,true,,3219,10,10,244,1,0,oc1648641228.ibm.com
+1622519774569,232,548 - /selenium/upload (),200,OK,Thread Group 1-1,true,,3219,10,10,232,1,0,oc1648641228.ibm.com
+1622519774568,232,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3219,10,10,232,1,0,oc1648641228.ibm.com
+1622519774563,239,548 - /selenium/upload (),200,OK,Thread Group 1-4,true,,3219,10,10,239,1,0,oc1648641228.ibm.com
+1622519774557,245,548 - /selenium/upload (),200,OK,Thread Group 1-9,true,,3219,10,10,245,1,0,oc1648641228.ibm.com
+1622519774557,245,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,true,,3219,10,10,245,1,0,oc1648641228.ibm.com
+1622519774562,239,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,true,,3219,10,10,239,1,0,oc1648641228.ibm.com
+1622519774802,161,481 - /selenium (),200,OK,Thread Group 1-9,true,,12901,10,10,161,1,0,oc1648641228.ibm.com
+1622519774802,161,481 - /selenium (),200,OK,Thread Group 1-4,true,,12898,10,10,161,1,0,oc1648641228.ibm.com
+1622519774802,161,481 - /selenium (),200,OK,Thread Group 1-3,true,,12904,10,10,161,1,0,oc1648641228.ibm.com
+1622519774801,163,481 - /selenium (),200,OK,Thread Group 1-2,true,,12887,10,10,163,1,0,oc1648641228.ibm.com
+1622519774802,162,481 - /selenium (),200,OK,Thread Group 1-1,true,,12899,10,10,162,1,0,oc1648641228.ibm.com
+1622519774685,337,548 - /selenium/upload (),200,OK,Thread Group 1-5,true,,3219,10,10,337,1,0,oc1648641228.ibm.com
+1622519774685,337,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,true,,3219,10,10,337,1,0,oc1648641228.ibm.com
+1622519774801,231,515 - /selenium/frame1 (),200,OK,Thread Group 1-6,true,,2176,10,10,231,1,0,oc1648641228.ibm.com
+1622519774801,231,516 - /selenium/frame2 (),200,OK,Thread Group 1-7,true,,2183,10,10,231,1,0,oc1648641228.ibm.com
+1622519774525,505,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,true,,7142,10,10,505,1,0,oc1648641228.ibm.com
+1622519774801,232,508 - /selenium/iframes (),200,OK,Thread Group 1-8,true,,2783,10,10,231,1,0,oc1648641228.ibm.com
+1622519774801,235,537 - /selenium/tables (),200,OK,Thread Group 1-10,true,,6339,10,10,235,1,0,oc1648641228.ibm.com
+1622519774964,79,499 - /selenium/simple-form (),200,OK,Thread Group 1-4,true,,4534,10,10,79,1,0,oc1648641228.ibm.com
+1622519774964,79,499 - /selenium/simple-form (),200,OK,Thread Group 1-2,true,,4534,10,10,79,1,0,oc1648641228.ibm.com
+1622519774964,79,499 - /selenium/simple-form (),200,OK,Thread Group 1-9,true,,4534,10,10,79,1,0,oc1648641228.ibm.com
+1622519774964,79,499 - /selenium/simple-form (),200,OK,Thread Group 1-3,true,,4534,10,10,79,1,0,oc1648641228.ibm.com
+1622519774802,240,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,17432,10,10,240,1,0,oc1648641228.ibm.com
+1622519774801,242,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,17421,10,10,242,1,0,oc1648641228.ibm.com
+1622519774802,240,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,17435,10,10,240,1,0,oc1648641228.ibm.com
+1622519774801,240,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,17438,10,10,240,1,0,oc1648641228.ibm.com
+1622519774965,78,499 - /selenium/simple-form (),200,OK,Thread Group 1-1,true,,4534,10,10,78,1,0,oc1648641228.ibm.com
+1622519774801,240,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,17433,10,10,240,1,0,oc1648641228.ibm.com
+1622519775023,33,481 - /selenium (),200,OK,Thread Group 1-5,true,,12897,10,10,33,1,0,oc1648641228.ibm.com
+1622519775033,29,516 - /selenium/frame2 (),200,OK,Thread Group 1-6,true,,2183,10,10,29,1,0,oc1648641228.ibm.com
+1622519774552,508,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,true,,7142,10,10,508,1,0,oc1648641228.ibm.com
+1622519775033,30,528 - /selenium/login-form (),200,OK,Thread Group 1-7,true,,3845,10,10,30,1,0,oc1648641228.ibm.com
+1622519775033,30,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,true,,3845,10,10,30,1,0,oc1648641228.ibm.com
+1622519775033,31,515 - /selenium/frame1 (),200,OK,Thread Group 1-8,true,,2176,10,10,31,1,0,oc1648641228.ibm.com
+1622519775037,31,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-10,true,,12544,10,10,31,1,0,oc1648641228.ibm.com
+1622519774801,266,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,18883,10,10,266,1,0,oc1648641228.ibm.com
+1622519775044,29,508 - /selenium/iframes (),200,OK,Thread Group 1-4,true,,2783,10,10,29,1,0,oc1648641228.ibm.com
+1622519775044,31,508 - /selenium/iframes (),200,OK,Thread Group 1-9,true,,2783,10,10,31,1,0,oc1648641228.ibm.com
+1622519775044,36,508 - /selenium/iframes (),200,OK,Thread Group 1-2,true,,2783,10,10,36,1,0,oc1648641228.ibm.com
+1622519775045,35,508 - /selenium/iframes (),200,OK,Thread Group 1-3,true,,2783,10,10,35,1,0,oc1648641228.ibm.com
+1622519775045,35,508 - /selenium/iframes (),200,OK,Thread Group 1-1,true,,2783,10,10,35,1,0,oc1648641228.ibm.com
+1622519775057,30,499 - /selenium/simple-form (),200,OK,Thread Group 1-5,true,,4534,10,10,30,1,0,oc1648641228.ibm.com
+1622519775023,63,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,17431,10,10,63,1,0,oc1648641228.ibm.com
+1622519775062,30,528 - /selenium/login-form (),200,OK,Thread Group 1-6,true,,3845,10,10,30,1,0,oc1648641228.ibm.com
+1622519775062,30,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,true,,3845,10,10,30,1,0,oc1648641228.ibm.com
+1622519775063,29,537 - /selenium/tables (),200,OK,Thread Group 1-7,true,,6339,10,10,29,1,0,oc1648641228.ibm.com
+1622519775065,29,516 - /selenium/frame2 (),200,OK,Thread Group 1-8,true,,2183,10,10,29,1,0,oc1648641228.ibm.com
+1622519774801,292,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,true,,7142,10,10,291,1,0,oc1648641228.ibm.com
+1622519775068,32,548 - /selenium/upload (),200,OK,Thread Group 1-10,true,,3219,10,10,32,1,0,oc1648641228.ibm.com
+1622519775068,32,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,true,,3219,10,10,32,1,0,oc1648641228.ibm.com
+1622519775075,29,515 - /selenium/frame1 (),200,OK,Thread Group 1-9,true,,2176,10,10,29,1,0,oc1648641228.ibm.com
+1622519775074,30,515 - /selenium/frame1 (),200,OK,Thread Group 1-4,true,,2176,10,10,30,1,0,oc1648641228.ibm.com
+1622519775080,32,515 - /selenium/frame1 (),200,OK,Thread Group 1-2,true,,2176,10,10,32,1,0,oc1648641228.ibm.com
+1622519775080,33,515 - /selenium/frame1 (),200,OK,Thread Group 1-3,true,,2176,10,10,33,1,0,oc1648641228.ibm.com
+1622519775080,34,515 - /selenium/frame1 (),200,OK,Thread Group 1-1,true,,2176,10,10,34,1,0,oc1648641228.ibm.com
+1622519775088,30,508 - /selenium/iframes (),200,OK,Thread Group 1-5,true,,2783,10,10,30,1,0,oc1648641228.ibm.com
+1622519775092,28,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-7,true,,12544,10,10,28,1,0,oc1648641228.ibm.com
+1622519775063,57,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,18883,10,10,57,1,0,oc1648641228.ibm.com
+1622519775092,30,537 - /selenium/tables (),200,OK,Thread Group 1-6,true,,6339,10,10,30,1,0,oc1648641228.ibm.com
+1622519775095,30,528 - /selenium/login-form (),200,OK,Thread Group 1-8,true,,3845,10,10,30,1,0,oc1648641228.ibm.com
+1622519775094,30,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,true,,3845,10,10,30,1,0,oc1648641228.ibm.com
+1622519775100,34,481 - /selenium (),200,OK,Thread Group 1-10,true,,12894,10,10,34,1,0,oc1648641228.ibm.com
+1622519775104,35,516 - /selenium/frame2 (),200,OK,Thread Group 1-4,true,,2183,10,10,35,1,0,oc1648641228.ibm.com
+1622519775044,94,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,true,,7142,10,10,94,1,0,oc1648641228.ibm.com
+1622519775104,36,516 - /selenium/frame2 (),200,OK,Thread Group 1-9,true,,2183,10,10,36,1,0,oc1648641228.ibm.com
+1622519775044,96,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,true,,7142,10,10,96,1,0,oc1648641228.ibm.com
+1622519775112,35,516 - /selenium/frame2 (),200,OK,Thread Group 1-2,true,,2183,10,10,35,1,0,oc1648641228.ibm.com
+1622519775115,32,516 - /selenium/frame2 (),200,OK,Thread Group 1-1,true,,2183,10,10,32,1,0,oc1648641228.ibm.com
+1622519775113,34,516 - /selenium/frame2 (),200,OK,Thread Group 1-3,true,,2183,10,10,34,1,0,oc1648641228.ibm.com
+1622519775044,101,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,true,,7142,10,10,101,1,0,oc1648641228.ibm.com
+1622519775044,102,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,true,,7142,10,10,102,1,0,oc1648641228.ibm.com
+1622519775044,103,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,true,,7142,10,10,103,1,0,oc1648641228.ibm.com
+1622519775120,32,548 - /selenium/upload (),200,OK,Thread Group 1-7,true,,3219,10,10,32,1,0,oc1648641228.ibm.com
+1622519775118,34,515 - /selenium/frame1 (),200,OK,Thread Group 1-5,true,,2176,10,10,34,1,0,oc1648641228.ibm.com
+1622519775120,32,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,true,,3219,10,10,32,1,0,oc1648641228.ibm.com
+1622519775122,30,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-6,true,,12544,10,10,30,1,0,oc1648641228.ibm.com
+1622519775092,60,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,18883,10,10,60,1,0,oc1648641228.ibm.com
+1622519775125,29,537 - /selenium/tables (),200,OK,Thread Group 1-8,true,,6339,10,10,29,1,0,oc1648641228.ibm.com
+1622519775134,32,499 - /selenium/simple-form (),200,OK,Thread Group 1-10,true,,4534,10,10,32,1,0,oc1648641228.ibm.com
+1622519775100,66,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,17428,10,10,66,1,0,oc1648641228.ibm.com
+1622519775140,30,528 - /selenium/login-form (),200,OK,Thread Group 1-9,true,,3845,10,10,30,1,0,oc1648641228.ibm.com
+1622519775140,30,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,true,,3845,10,10,30,1,0,oc1648641228.ibm.com
+1622519775140,30,528 - /selenium/login-form (),200,OK,Thread Group 1-4,true,,3845,10,10,30,1,0,oc1648641228.ibm.com
+1622519775140,30,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,true,,3845,10,10,30,1,0,oc1648641228.ibm.com
+1622519775148,32,528 - /selenium/login-form (),200,OK,Thread Group 1-3,true,,3845,10,10,32,1,0,oc1648641228.ibm.com
+1622519775148,32,528 - /selenium/login-form (),200,OK,Thread Group 1-2,true,,3845,10,10,32,1,0,oc1648641228.ibm.com
+1622519775147,32,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,true,,3845,10,10,32,1,0,oc1648641228.ibm.com
+1622519775147,32,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,true,,3845,10,10,32,1,0,oc1648641228.ibm.com
+1622519775148,38,528 - /selenium/login-form (),200,OK,Thread Group 1-1,true,,3845,10,10,38,1,0,oc1648641228.ibm.com
+1622519775147,38,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3845,10,10,38,1,0,oc1648641228.ibm.com
+1622519775153,34,481 - /selenium (),200,OK,Thread Group 1-7,true,,12900,10,10,34,1,0,oc1648641228.ibm.com
+1622519775153,43,548 - /selenium/upload (),200,OK,Thread Group 1-6,true,,3219,10,10,43,1,0,oc1648641228.ibm.com
+1622519775152,43,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,true,,3219,10,10,43,1,0,oc1648641228.ibm.com
+1622519775152,45,516 - /selenium/frame2 (),200,OK,Thread Group 1-5,true,,2183,10,10,45,1,0,oc1648641228.ibm.com
+1622519775088,109,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,true,,7142,10,10,109,1,0,oc1648641228.ibm.com
+1622519775155,43,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-8,true,,12544,10,10,43,1,0,oc1648641228.ibm.com
+1622519775125,72,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,18883,10,10,72,1,0,oc1648641228.ibm.com
+1622519775167,37,508 - /selenium/iframes (),200,OK,Thread Group 1-10,true,,2783,10,10,36,1,0,oc1648641228.ibm.com
+1622519775170,34,537 - /selenium/tables (),200,OK,Thread Group 1-9,true,,6339,10,10,34,1,0,oc1648641228.ibm.com
+1622519775171,34,537 - /selenium/tables (),200,OK,Thread Group 1-4,true,,6339,10,10,34,1,0,oc1648641228.ibm.com
+1622519775180,29,537 - /selenium/tables (),200,OK,Thread Group 1-2,true,,6339,10,10,29,1,0,oc1648641228.ibm.com
+1622519775180,31,537 - /selenium/tables (),200,OK,Thread Group 1-3,true,,6339,10,10,31,1,0,oc1648641228.ibm.com
+1622519775187,28,499 - /selenium/simple-form (),200,OK,Thread Group 1-7,true,,4534,10,10,28,1,0,oc1648641228.ibm.com
+1622519775152,62,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,17434,10,10,62,1,0,oc1648641228.ibm.com
+1622519775187,31,537 - /selenium/tables (),200,OK,Thread Group 1-1,true,,6339,10,10,30,1,0,oc1648641228.ibm.com
+1622519775212,27,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-3,true,,12544,10,10,27,1,0,oc1648641228.ibm.com
+1622519775210,28,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-2,true,,12544,10,10,28,1,0,oc1648641228.ibm.com
+1622519775204,32,515 - /selenium/frame1 (),200,OK,Thread Group 1-10,true,,2176,10,10,32,1,0,oc1648641228.ibm.com
+1622519775180,57,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,18883,10,10,57,1,0,oc1648641228.ibm.com
+1622519775205,31,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-4,true,,12544,10,10,31,1,0,oc1648641228.ibm.com
+1622519775204,30,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-9,true,,12544,10,10,30,1,0,oc1648641228.ibm.com
+1622519775198,34,528 - /selenium/login-form (),200,OK,Thread Group 1-5,true,,3845,10,10,34,1,0,oc1648641228.ibm.com
+1622519775170,64,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,18883,10,10,64,1,0,oc1648641228.ibm.com
+1622519775170,65,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,18883,10,10,65,1,0,oc1648641228.ibm.com
+1622519775197,34,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,true,,3845,10,10,34,1,0,oc1648641228.ibm.com
+1622519775199,32,548 - /selenium/upload (),200,OK,Thread Group 1-8,true,,3219,10,10,32,1,0,oc1648641228.ibm.com
+1622519775198,32,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,true,,3219,10,10,32,1,0,oc1648641228.ibm.com
+1622519775197,31,481 - /selenium (),200,OK,Thread Group 1-6,true,,12893,10,10,31,1,0,oc1648641228.ibm.com
+1622519775180,58,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,18883,10,10,58,1,0,oc1648641228.ibm.com
+1622519775216,30,508 - /selenium/iframes (),200,OK,Thread Group 1-7,true,,2783,10,10,30,1,0,oc1648641228.ibm.com
+1622519775218,30,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-1,true,,12544,10,10,30,1,0,oc1648641228.ibm.com
+1622519775187,61,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,18883,10,10,60,1,0,oc1648641228.ibm.com
+1622519775243,37,481 - /selenium (),200,OK,Thread Group 1-8,true,,12887,10,10,37,1,0,oc1648641228.ibm.com
+1622519775244,40,499 - /selenium/simple-form (),200,OK,Thread Group 1-6,true,,4534,10,10,40,1,0,oc1648641228.ibm.com
+1622519775197,71,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,17427,10,10,71,1,0,oc1648641228.ibm.com
+1622519775243,52,548 - /selenium/upload (),200,OK,Thread Group 1-9,true,,3219,10,10,52,1,0,oc1648641228.ibm.com
+1622519775244,51,548 - /selenium/upload (),200,OK,Thread Group 1-2,true,,3219,10,10,51,1,0,oc1648641228.ibm.com
+1622519775244,51,548 - /selenium/upload (),200,OK,Thread Group 1-3,true,,3219,10,10,51,1,0,oc1648641228.ibm.com
+1622519775243,52,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,true,,3219,10,10,52,1,0,oc1648641228.ibm.com
+1622519775243,52,548 - /selenium/upload (),200,OK,Thread Group 1-4,true,,3219,10,10,52,1,0,oc1648641228.ibm.com
+1622519775244,51,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,true,,3219,10,10,51,1,0,oc1648641228.ibm.com
+1622519775243,51,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,true,,3219,10,10,51,1,0,oc1648641228.ibm.com
+1622519775243,52,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,true,,3219,10,10,52,1,0,oc1648641228.ibm.com
+1622519775243,53,537 - /selenium/tables (),200,OK,Thread Group 1-5,true,,6339,10,10,53,1,0,oc1648641228.ibm.com
+1622519775246,53,515 - /selenium/frame1 (),200,OK,Thread Group 1-7,true,,2176,10,10,53,1,0,oc1648641228.ibm.com
+1622519775243,56,516 - /selenium/frame2 (),200,OK,Thread Group 1-10,true,,2183,10,10,56,1,0,oc1648641228.ibm.com
+1622519775166,125,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,true,,7142,10,10,124,1,0,oc1648641228.ibm.com
+1622519775248,53,548 - /selenium/upload (),200,OK,Thread Group 1-1,true,,3219,10,10,53,1,0,oc1648641228.ibm.com
+1622519775248,53,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3219,10,10,53,1,0,oc1648641228.ibm.com
+1622519775280,30,499 - /selenium/simple-form (),200,OK,Thread Group 1-8,true,,4534,10,10,30,1,0,oc1648641228.ibm.com
+1622519775243,67,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,17421,10,10,67,1,0,oc1648641228.ibm.com
+1622519775284,35,508 - /selenium/iframes (),200,OK,Thread Group 1-6,true,,2783,10,10,35,1,0,oc1648641228.ibm.com
+1622519775296,46,481 - /selenium (),200,OK,Thread Group 1-9,true,,12896,10,10,46,1,0,oc1648641228.ibm.com
+1622519775296,47,481 - /selenium (),200,OK,Thread Group 1-2,true,,12898,10,10,47,1,0,oc1648641228.ibm.com
+1622519775296,48,481 - /selenium (),200,OK,Thread Group 1-3,true,,12901,10,10,47,1,0,oc1648641228.ibm.com
+1622519775296,48,481 - /selenium (),200,OK,Thread Group 1-4,true,,12897,10,10,48,1,0,oc1648641228.ibm.com
+1622519775302,46,481 - /selenium (),200,OK,Thread Group 1-1,true,,12904,10,10,46,1,0,oc1648641228.ibm.com
+1622519775296,55,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-5,true,,12544,10,10,55,1,0,oc1648641228.ibm.com
+1622519775243,108,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,18883,10,10,108,1,0,oc1648641228.ibm.com
+1622519775299,56,516 - /selenium/frame2 (),200,OK,Thread Group 1-7,true,,2183,10,10,56,1,0,oc1648641228.ibm.com
+1622519775215,139,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,true,,7142,10,10,139,1,0,oc1648641228.ibm.com
+1622519775299,57,528 - /selenium/login-form (),200,OK,Thread Group 1-10,true,,3845,10,10,57,1,0,oc1648641228.ibm.com
+1622519775299,57,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,true,,3845,10,10,57,1,0,oc1648641228.ibm.com
+1622519775310,49,508 - /selenium/iframes (),200,OK,Thread Group 1-8,true,,2783,10,10,49,1,0,oc1648641228.ibm.com
+1622519775319,41,515 - /selenium/frame1 (),200,OK,Thread Group 1-6,true,,2176,10,10,41,1,0,oc1648641228.ibm.com
+1622519775343,32,499 - /selenium/simple-form (),200,OK,Thread Group 1-9,true,,4534,10,10,32,1,0,oc1648641228.ibm.com
+1622519775344,31,499 - /selenium/simple-form (),200,OK,Thread Group 1-2,true,,4534,10,10,31,1,0,oc1648641228.ibm.com
+1622519775295,78,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,17430,10,10,78,1,0,oc1648641228.ibm.com
+1622519775295,78,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,17432,10,10,78,1,0,oc1648641228.ibm.com
+1622519775344,36,499 - /selenium/simple-form (),200,OK,Thread Group 1-3,true,,4534,10,10,36,1,0,oc1648641228.ibm.com
+1622519775344,36,499 - /selenium/simple-form (),200,OK,Thread Group 1-4,true,,4534,10,10,36,1,0,oc1648641228.ibm.com
+1622519775295,84,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,17435,10,10,83,1,0,oc1648641228.ibm.com
+1622519775295,84,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,17431,10,10,84,1,0,oc1648641228.ibm.com
+1622519775349,38,499 - /selenium/simple-form (),200,OK,Thread Group 1-1,true,,4534,10,10,38,1,0,oc1648641228.ibm.com
+1622519775302,84,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,17438,10,10,84,1,0,oc1648641228.ibm.com
+1622519775352,36,548 - /selenium/upload (),200,OK,Thread Group 1-5,true,,3219,10,10,36,1,0,oc1648641228.ibm.com
+1622519775352,36,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,true,,3219,10,10,36,1,0,oc1648641228.ibm.com
+1622519775356,33,528 - /selenium/login-form (),200,OK,Thread Group 1-7,true,,3845,10,10,33,1,0,oc1648641228.ibm.com
+1622519775356,33,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,true,,3845,10,10,33,1,0,oc1648641228.ibm.com
+1622519775359,38,515 - /selenium/frame1 (),200,OK,Thread Group 1-8,true,,2176,10,10,38,1,0,oc1648641228.ibm.com
+1622519775361,36,516 - /selenium/frame2 (),200,OK,Thread Group 1-6,true,,2183,10,10,36,1,0,oc1648641228.ibm.com
+1622519775284,112,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,true,,7142,10,10,112,1,0,oc1648641228.ibm.com
+1622519775357,41,537 - /selenium/tables (),200,OK,Thread Group 1-10,true,,6339,10,10,41,1,0,oc1648641228.ibm.com
+1622519775376,29,508 - /selenium/iframes (),200,OK,Thread Group 1-2,true,,2783,10,10,29,1,0,oc1648641228.ibm.com
+1622519775376,30,508 - /selenium/iframes (),200,OK,Thread Group 1-9,true,,2783,10,10,30,1,0,oc1648641228.ibm.com
+1622519775381,28,508 - /selenium/iframes (),200,OK,Thread Group 1-4,true,,2783,10,10,28,1,0,oc1648641228.ibm.com
+1622519775381,30,508 - /selenium/iframes (),200,OK,Thread Group 1-3,true,,2783,10,10,30,1,0,oc1648641228.ibm.com
+1622519775388,35,481 - /selenium (),200,OK,Thread Group 1-5,true,,12897,10,10,35,1,0,oc1648641228.ibm.com
+1622519775388,37,508 - /selenium/iframes (),200,OK,Thread Group 1-1,true,,2783,10,10,37,1,0,oc1648641228.ibm.com
+1622519775390,35,537 - /selenium/tables (),200,OK,Thread Group 1-7,true,,6339,10,10,35,1,0,oc1648641228.ibm.com
+1622519775398,31,516 - /selenium/frame2 (),200,OK,Thread Group 1-8,true,,2183,10,10,31,1,0,oc1648641228.ibm.com
+1622519775310,118,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,true,,7142,10,10,118,1,0,oc1648641228.ibm.com
+1622519775398,32,528 - /selenium/login-form (),200,OK,Thread Group 1-6,true,,3845,10,10,32,1,0,oc1648641228.ibm.com
+1622519775398,32,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,true,,3845,10,10,32,1,0,oc1648641228.ibm.com
+1622519775398,34,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-10,true,,12544,10,10,34,1,0,oc1648641228.ibm.com
+1622519775357,75,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,18883,10,10,75,1,0,oc1648641228.ibm.com
+1622519775405,35,515 - /selenium/frame1 (),200,OK,Thread Group 1-2,true,,2176,10,10,35,1,0,oc1648641228.ibm.com
+1622519775406,35,515 - /selenium/frame1 (),200,OK,Thread Group 1-9,true,,2176,10,10,35,1,0,oc1648641228.ibm.com
+1622519775409,34,515 - /selenium/frame1 (),200,OK,Thread Group 1-4,true,,2176,10,10,34,1,0,oc1648641228.ibm.com
+1622519775411,32,515 - /selenium/frame1 (),200,OK,Thread Group 1-3,true,,2176,10,10,32,1,0,oc1648641228.ibm.com
+1622519775426,26,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-7,true,,12544,10,10,26,1,0,oc1648641228.ibm.com
+1622519775389,61,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,18883,10,10,61,1,0,oc1648641228.ibm.com
+1622519775425,34,515 - /selenium/frame1 (),200,OK,Thread Group 1-1,true,,2176,10,10,34,1,0,oc1648641228.ibm.com
+1622519775423,37,499 - /selenium/simple-form (),200,OK,Thread Group 1-5,true,,4534,10,10,37,1,0,oc1648641228.ibm.com
+1622519775388,72,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,17431,10,10,72,1,0,oc1648641228.ibm.com
+1622519775430,48,537 - /selenium/tables (),200,OK,Thread Group 1-6,true,,6339,10,10,48,1,0,oc1648641228.ibm.com
+1622519775430,49,528 - /selenium/login-form (),200,OK,Thread Group 1-8,true,,3845,10,10,49,1,0,oc1648641228.ibm.com
+1622519775430,49,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,true,,3845,10,10,49,1,0,oc1648641228.ibm.com
+1622519775433,54,548 - /selenium/upload (),200,OK,Thread Group 1-10,true,,3219,10,10,54,1,0,oc1648641228.ibm.com
+1622519775433,54,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,true,,3219,10,10,54,1,0,oc1648641228.ibm.com
+1622519775440,56,516 - /selenium/frame2 (),200,OK,Thread Group 1-2,true,,2183,10,10,56,1,0,oc1648641228.ibm.com
+1622519775375,120,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,true,,7142,10,10,120,1,0,oc1648641228.ibm.com
+1622519775441,55,516 - /selenium/frame2 (),200,OK,Thread Group 1-9,true,,2183,10,10,55,1,0,oc1648641228.ibm.com
+1622519775375,120,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,true,,7142,10,10,120,1,0,oc1648641228.ibm.com
+1622519775444,52,516 - /selenium/frame2 (),200,OK,Thread Group 1-3,true,,2183,10,10,52,1,0,oc1648641228.ibm.com
+1622519775380,114,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,true,,7142,10,10,114,1,0,oc1648641228.ibm.com
+1622519775443,54,516 - /selenium/frame2 (),200,OK,Thread Group 1-4,true,,2183,10,10,54,1,0,oc1648641228.ibm.com
+1622519775380,116,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,true,,7142,10,10,116,1,0,oc1648641228.ibm.com
+1622519775452,51,548 - /selenium/upload (),200,OK,Thread Group 1-7,true,,3219,10,10,51,1,0,oc1648641228.ibm.com
+1622519775452,51,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,true,,3219,10,10,51,1,0,oc1648641228.ibm.com
+1622519775460,51,516 - /selenium/frame2 (),200,OK,Thread Group 1-1,true,,2183,10,10,51,1,0,oc1648641228.ibm.com
+1622519775387,122,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,true,,7142,10,10,122,1,0,oc1648641228.ibm.com
+1622519775460,51,508 - /selenium/iframes (),200,OK,Thread Group 1-5,true,,2783,10,10,51,1,0,oc1648641228.ibm.com
+1622519775478,34,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-6,true,,12544,10,10,34,1,0,oc1648641228.ibm.com
+1622519775430,82,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,18883,10,10,82,1,0,oc1648641228.ibm.com
+1622519775479,36,537 - /selenium/tables (),200,OK,Thread Group 1-8,true,,6339,10,10,36,1,0,oc1648641228.ibm.com
+1622519775488,38,481 - /selenium (),200,OK,Thread Group 1-10,true,,12894,10,10,38,1,0,oc1648641228.ibm.com
+1622519775503,33,481 - /selenium (),200,OK,Thread Group 1-7,true,,12901,10,10,33,1,0,oc1648641228.ibm.com
+1622519775496,50,528 - /selenium/login-form (),200,OK,Thread Group 1-2,true,,3845,10,10,50,1,0,oc1648641228.ibm.com
+1622519775496,50,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,true,,3845,10,10,50,1,0,oc1648641228.ibm.com
+1622519775497,50,528 - /selenium/login-form (),200,OK,Thread Group 1-9,true,,3845,10,10,50,1,0,oc1648641228.ibm.com
+1622519775497,50,528 - /selenium/login-form (),200,OK,Thread Group 1-3,true,,3845,10,10,50,1,0,oc1648641228.ibm.com
+1622519775496,50,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,true,,3845,10,10,50,1,0,oc1648641228.ibm.com
+1622519775497,50,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,true,,3845,10,10,50,1,0,oc1648641228.ibm.com
+1622519775498,52,528 - /selenium/login-form (),200,OK,Thread Group 1-4,true,,3845,10,10,52,1,0,oc1648641228.ibm.com
+1622519775498,52,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,true,,3845,10,10,52,1,0,oc1648641228.ibm.com
+1622519775515,39,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-8,true,,12544,10,10,38,1,0,oc1648641228.ibm.com
+1622519775479,75,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,18883,10,10,74,1,0,oc1648641228.ibm.com
+1622519775513,44,548 - /selenium/upload (),200,OK,Thread Group 1-6,true,,3219,10,10,44,1,0,oc1648641228.ibm.com
+1622519775512,44,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,true,,3219,10,10,44,1,0,oc1648641228.ibm.com
+1622519775511,47,528 - /selenium/login-form (),200,OK,Thread Group 1-1,true,,3845,10,10,47,1,0,oc1648641228.ibm.com
+1622519775511,47,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3845,10,10,47,1,0,oc1648641228.ibm.com
+1622519775512,46,515 - /selenium/frame1 (),200,OK,Thread Group 1-5,true,,2176,10,10,46,1,0,oc1648641228.ibm.com
+1622519775526,36,499 - /selenium/simple-form (),200,OK,Thread Group 1-10,true,,4534,10,10,36,1,0,oc1648641228.ibm.com
+1622519775487,74,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,17428,10,10,74,1,0,oc1648641228.ibm.com
+1622519775537,29,499 - /selenium/simple-form (),200,OK,Thread Group 1-7,true,,4534,10,10,29,1,0,oc1648641228.ibm.com
+1622519775503,62,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,17435,10,10,62,1,0,oc1648641228.ibm.com
+1622519775547,28,537 - /selenium/tables (),200,OK,Thread Group 1-2,true,,6339,10,10,28,1,0,oc1648641228.ibm.com
+1622519775548,32,537 - /selenium/tables (),200,OK,Thread Group 1-9,true,,6339,10,10,32,1,0,oc1648641228.ibm.com
+1622519775548,32,537 - /selenium/tables (),200,OK,Thread Group 1-3,true,,6339,10,10,32,1,0,oc1648641228.ibm.com
+1622519775551,31,537 - /selenium/tables (),200,OK,Thread Group 1-4,true,,6339,10,10,31,1,0,oc1648641228.ibm.com
+1622519775558,28,481 - /selenium (),200,OK,Thread Group 1-6,true,,12901,10,10,28,1,0,oc1648641228.ibm.com
+1622519775555,33,548 - /selenium/upload (),200,OK,Thread Group 1-8,true,,3219,10,10,33,1,0,oc1648641228.ibm.com
+1622519775554,33,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,true,,3219,10,10,33,1,0,oc1648641228.ibm.com
+1622519775558,34,537 - /selenium/tables (),200,OK,Thread Group 1-1,true,,6339,10,10,34,1,0,oc1648641228.ibm.com
+1622519775558,34,516 - /selenium/frame2 (),200,OK,Thread Group 1-5,true,,2183,10,10,34,1,0,oc1648641228.ibm.com
+1622519775460,131,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,true,,7142,10,10,131,1,0,oc1648641228.ibm.com
+1622519775567,29,508 - /selenium/iframes (),200,OK,Thread Group 1-7,true,,2783,10,10,29,1,0,oc1648641228.ibm.com
+1622519775563,33,508 - /selenium/iframes (),200,OK,Thread Group 1-10,true,,2783,10,10,33,1,0,oc1648641228.ibm.com
+1622519775576,29,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-2,true,,12544,10,10,29,1,0,oc1648641228.ibm.com
+1622519775546,57,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,18883,10,10,57,1,0,oc1648641228.ibm.com
+1622519775580,27,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-9,true,,12544,10,10,27,1,0,oc1648641228.ibm.com
+1622519775547,59,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,18883,10,10,59,1,0,oc1648641228.ibm.com
+1622519775580,28,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-3,true,,12544,10,10,28,1,0,oc1648641228.ibm.com
+1622519775547,60,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,18883,10,10,60,1,0,oc1648641228.ibm.com
+1622519775583,27,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-4,true,,12544,10,10,27,1,0,oc1648641228.ibm.com
+1622519775551,58,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,18883,10,10,58,1,0,oc1648641228.ibm.com
+1622519775586,26,499 - /selenium/simple-form (),200,OK,Thread Group 1-6,true,,4534,10,10,26,1,0,oc1648641228.ibm.com
+1622519775558,54,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,17435,10,10,54,1,0,oc1648641228.ibm.com
+1622519775588,28,481 - /selenium (),200,OK,Thread Group 1-8,true,,12898,10,10,28,1,0,oc1648641228.ibm.com
+1622519775592,32,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-1,true,,12544,10,10,32,1,0,oc1648641228.ibm.com
+1622519775558,66,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,18883,10,10,66,1,0,oc1648641228.ibm.com
+1622519775596,34,515 - /selenium/frame1 (),200,OK,Thread Group 1-7,true,,2176,10,10,34,1,0,oc1648641228.ibm.com
+1622519775592,39,528 - /selenium/login-form (),200,OK,Thread Group 1-5,true,,3845,10,10,39,1,0,oc1648641228.ibm.com
+1622519775592,39,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,true,,3845,10,10,39,1,0,oc1648641228.ibm.com
+1622519775597,37,515 - /selenium/frame1 (),200,OK,Thread Group 1-10,true,,2176,10,10,37,1,0,oc1648641228.ibm.com
+1622519775605,30,548 - /selenium/upload (),200,OK,Thread Group 1-2,true,,3219,10,10,30,1,0,oc1648641228.ibm.com
+1622519775605,30,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,true,,3219,10,10,30,1,0,oc1648641228.ibm.com
+1622519775608,40,548 - /selenium/upload (),200,OK,Thread Group 1-9,true,,3219,10,10,40,1,0,oc1648641228.ibm.com
+1622519775609,39,548 - /selenium/upload (),200,OK,Thread Group 1-3,true,,3219,10,10,39,1,0,oc1648641228.ibm.com
+1622519775610,38,548 - /selenium/upload (),200,OK,Thread Group 1-4,true,,3219,10,10,38,1,0,oc1648641228.ibm.com
+1622519775612,36,508 - /selenium/iframes (),200,OK,Thread Group 1-6,true,,2783,10,10,36,1,0,oc1648641228.ibm.com
+1622519775607,40,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,true,,3219,10,10,40,1,0,oc1648641228.ibm.com
+1622519775608,39,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,true,,3219,10,10,39,1,0,oc1648641228.ibm.com
+1622519775610,38,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,true,,3219,10,10,38,1,0,oc1648641228.ibm.com
+1622519775617,33,499 - /selenium/simple-form (),200,OK,Thread Group 1-8,true,,4534,10,10,33,1,0,oc1648641228.ibm.com
+1622519775588,61,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,17432,10,10,61,1,0,oc1648641228.ibm.com
+1622519775625,31,548 - /selenium/upload (),200,OK,Thread Group 1-1,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519775624,31,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519775631,29,516 - /selenium/frame2 (),200,OK,Thread Group 1-7,true,,2183,10,10,29,1,0,oc1648641228.ibm.com
+1622519775566,92,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,true,,7142,10,10,92,1,0,oc1648641228.ibm.com
+1622519775631,34,537 - /selenium/tables (),200,OK,Thread Group 1-5,true,,6339,10,10,34,1,0,oc1648641228.ibm.com
+1622519775635,33,481 - /selenium (),200,OK,Thread Group 1-2,true,,12896,10,10,33,1,0,oc1648641228.ibm.com
+1622519775635,35,516 - /selenium/frame2 (),200,OK,Thread Group 1-10,true,,2183,10,10,35,1,0,oc1648641228.ibm.com
+1622519775562,105,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,true,,7142,10,10,105,1,0,oc1648641228.ibm.com
+1622519775648,41,481 - /selenium (),200,OK,Thread Group 1-9,true,,12894,10,10,41,1,0,oc1648641228.ibm.com
+1622519775648,41,481 - /selenium (),200,OK,Thread Group 1-4,true,,12903,10,10,41,1,0,oc1648641228.ibm.com
+1622519775648,43,481 - /selenium (),200,OK,Thread Group 1-3,true,,12905,10,10,43,1,0,oc1648641228.ibm.com
+1622519775648,47,515 - /selenium/frame1 (),200,OK,Thread Group 1-6,true,,2176,10,10,47,1,0,oc1648641228.ibm.com
+1622519775656,41,481 - /selenium (),200,OK,Thread Group 1-1,true,,12900,10,10,41,1,0,oc1648641228.ibm.com
+1622519775651,49,508 - /selenium/iframes (),200,OK,Thread Group 1-8,true,,2783,10,10,49,1,0,oc1648641228.ibm.com
+1622519775660,43,528 - /selenium/login-form (),200,OK,Thread Group 1-7,true,,3845,10,10,43,1,0,oc1648641228.ibm.com
+1622519775660,43,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,true,,3845,10,10,43,1,0,oc1648641228.ibm.com
+1622519775665,40,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-5,true,,12544,10,10,40,1,0,oc1648641228.ibm.com
+1622519775631,74,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,18883,10,10,74,1,0,oc1648641228.ibm.com
+1622519775668,38,499 - /selenium/simple-form (),200,OK,Thread Group 1-2,true,,4534,10,10,38,1,0,oc1648641228.ibm.com
+1622519775635,71,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,17430,10,10,71,1,0,oc1648641228.ibm.com
+1622519775670,38,528 - /selenium/login-form (),200,OK,Thread Group 1-10,true,,3845,10,10,38,1,0,oc1648641228.ibm.com
+1622519775670,38,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,true,,3845,10,10,38,1,0,oc1648641228.ibm.com
+1622519775690,34,499 - /selenium/simple-form (),200,OK,Thread Group 1-4,true,,4534,10,10,34,1,0,oc1648641228.ibm.com
+1622519775648,75,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,17437,10,10,75,1,0,oc1648641228.ibm.com
+1622519775689,36,499 - /selenium/simple-form (),200,OK,Thread Group 1-9,true,,4534,10,10,36,1,0,oc1648641228.ibm.com
+1622519775648,77,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,17428,10,10,77,1,0,oc1648641228.ibm.com
+1622519775704,42,537 - /selenium/tables (),200,OK,Thread Group 1-7,true,,6339,10,10,42,1,0,oc1648641228.ibm.com
+1622519775705,41,548 - /selenium/upload (),200,OK,Thread Group 1-5,true,,3219,10,10,41,1,0,oc1648641228.ibm.com
+1622519775700,40,515 - /selenium/frame1 (),200,OK,Thread Group 1-8,true,,2176,10,10,40,1,0,oc1648641228.ibm.com
+1622519775705,41,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,true,,3219,10,10,41,1,0,oc1648641228.ibm.com
+1622519775698,39,499 - /selenium/simple-form (),200,OK,Thread Group 1-1,true,,4534,10,10,39,1,0,oc1648641228.ibm.com
+1622519775696,37,516 - /selenium/frame2 (),200,OK,Thread Group 1-6,true,,2183,10,10,37,1,0,oc1648641228.ibm.com
+1622519775692,41,499 - /selenium/simple-form (),200,OK,Thread Group 1-3,true,,4534,10,10,41,1,0,oc1648641228.ibm.com
+1622519775648,84,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,17439,10,10,84,1,0,oc1648641228.ibm.com
+1622519775656,80,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,17434,10,10,80,1,0,oc1648641228.ibm.com
+1622519775612,120,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,true,,7142,10,10,120,1,0,oc1648641228.ibm.com
+1622519775706,44,508 - /selenium/iframes (),200,OK,Thread Group 1-2,true,,2783,10,10,44,1,0,oc1648641228.ibm.com
+1622519775709,41,537 - /selenium/tables (),200,OK,Thread Group 1-10,true,,6339,10,10,41,1,0,oc1648641228.ibm.com
+1622519775725,33,508 - /selenium/iframes (),200,OK,Thread Group 1-4,true,,2783,10,10,33,1,0,oc1648641228.ibm.com
+1622519775726,34,508 - /selenium/iframes (),200,OK,Thread Group 1-9,true,,2783,10,10,34,1,0,oc1648641228.ibm.com
+1622519775747,36,481 - /selenium (),200,OK,Thread Group 1-5,true,,12884,10,10,36,1,0,oc1648641228.ibm.com
+1622519775747,37,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-7,true,,12544,10,10,37,1,0,oc1648641228.ibm.com
+1622519775703,79,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,18883,10,10,79,1,0,oc1648641228.ibm.com
+1622519775748,42,528 - /selenium/login-form (),200,OK,Thread Group 1-6,true,,3845,10,10,42,1,0,oc1648641228.ibm.com
+1622519775748,42,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,true,,3845,10,10,42,1,0,oc1648641228.ibm.com
+1622519775747,50,516 - /selenium/frame2 (),200,OK,Thread Group 1-8,true,,2183,10,10,50,1,0,oc1648641228.ibm.com
+1622519775651,139,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,true,,7142,10,10,139,1,0,oc1648641228.ibm.com
+1622519775748,49,508 - /selenium/iframes (),200,OK,Thread Group 1-3,true,,2783,10,10,49,1,0,oc1648641228.ibm.com
+1622519775748,54,508 - /selenium/iframes (),200,OK,Thread Group 1-1,true,,2783,10,10,54,1,0,oc1648641228.ibm.com
+1622519775750,53,515 - /selenium/frame1 (),200,OK,Thread Group 1-2,true,,2176,10,10,53,1,0,oc1648641228.ibm.com
+1622519775750,53,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-10,true,,12544,10,10,53,1,0,oc1648641228.ibm.com
+1622519775708,94,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,18883,10,10,94,1,0,oc1648641228.ibm.com
+1622519775758,48,515 - /selenium/frame1 (),200,OK,Thread Group 1-4,true,,2176,10,10,48,1,0,oc1648641228.ibm.com
+1622519775760,47,515 - /selenium/frame1 (),200,OK,Thread Group 1-9,true,,2176,10,10,47,1,0,oc1648641228.ibm.com
+1622519775784,34,548 - /selenium/upload (),200,OK,Thread Group 1-7,true,,3219,10,10,34,1,0,oc1648641228.ibm.com
+1622519775784,34,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,true,,3219,10,10,34,1,0,oc1648641228.ibm.com
+1622519775783,35,499 - /selenium/simple-form (),200,OK,Thread Group 1-5,true,,4534,10,10,35,1,0,oc1648641228.ibm.com
+1622519775747,71,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,17418,10,10,71,1,0,oc1648641228.ibm.com
+1622519775790,33,537 - /selenium/tables (),200,OK,Thread Group 1-6,true,,6339,10,10,33,1,0,oc1648641228.ibm.com
+1622519775797,33,528 - /selenium/login-form (),200,OK,Thread Group 1-8,true,,3845,10,10,33,1,0,oc1648641228.ibm.com
+1622519775797,33,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,true,,3845,10,10,33,1,0,oc1648641228.ibm.com
+1622519775797,33,515 - /selenium/frame1 (),200,OK,Thread Group 1-3,true,,2176,10,10,33,1,0,oc1648641228.ibm.com
+1622519775803,36,515 - /selenium/frame1 (),200,OK,Thread Group 1-1,true,,2176,10,10,36,1,0,oc1648641228.ibm.com
+1622519775804,35,516 - /selenium/frame2 (),200,OK,Thread Group 1-2,true,,2183,10,10,35,1,0,oc1648641228.ibm.com
+1622519775706,132,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,true,,7142,10,10,132,1,0,oc1648641228.ibm.com
+1622519775804,41,548 - /selenium/upload (),200,OK,Thread Group 1-10,true,,3219,10,10,41,1,0,oc1648641228.ibm.com
+1622519775804,41,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,true,,3219,10,10,41,1,0,oc1648641228.ibm.com
+1622519775807,38,516 - /selenium/frame2 (),200,OK,Thread Group 1-9,true,,2183,10,10,38,1,0,oc1648641228.ibm.com
+1622519775806,40,516 - /selenium/frame2 (),200,OK,Thread Group 1-4,true,,2183,10,10,40,1,0,oc1648641228.ibm.com
+1622519775726,119,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,true,,7142,10,10,119,1,0,oc1648641228.ibm.com
+1622519775725,121,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,true,,7142,10,10,121,1,0,oc1648641228.ibm.com
+1622519775818,32,481 - /selenium (),200,OK,Thread Group 1-7,true,,12896,10,10,32,1,0,oc1648641228.ibm.com
+1622519775823,34,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-6,true,,12544,10,10,34,1,0,oc1648641228.ibm.com
+1622519775790,67,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,18883,10,10,67,1,0,oc1648641228.ibm.com
+1622519775818,40,508 - /selenium/iframes (),200,OK,Thread Group 1-5,true,,2783,10,10,40,1,0,oc1648641228.ibm.com
+1622519775830,32,537 - /selenium/tables (),200,OK,Thread Group 1-8,true,,6339,10,10,32,1,0,oc1648641228.ibm.com
+1622519775830,32,516 - /selenium/frame2 (),200,OK,Thread Group 1-3,true,,2183,10,10,32,1,0,oc1648641228.ibm.com
+1622519775748,114,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,true,,7142,10,10,114,1,0,oc1648641228.ibm.com
+1622519775839,30,528 - /selenium/login-form (),200,OK,Thread Group 1-2,true,,3845,10,10,30,1,0,oc1648641228.ibm.com
+1622519775839,30,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,true,,3845,10,10,30,1,0,oc1648641228.ibm.com
+1622519775839,31,516 - /selenium/frame2 (),200,OK,Thread Group 1-1,true,,2183,10,10,31,1,0,oc1648641228.ibm.com
+1622519775748,121,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,true,,7142,10,10,121,1,0,oc1648641228.ibm.com
+1622519775845,32,481 - /selenium (),200,OK,Thread Group 1-10,true,,12896,10,10,32,1,0,oc1648641228.ibm.com
+1622519775846,36,528 - /selenium/login-form (),200,OK,Thread Group 1-9,true,,3845,10,10,36,1,0,oc1648641228.ibm.com
+1622519775846,36,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,true,,3845,10,10,36,1,0,oc1648641228.ibm.com
+1622519775846,37,528 - /selenium/login-form (),200,OK,Thread Group 1-4,true,,3845,10,10,37,1,0,oc1648641228.ibm.com
+1622519775846,37,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,true,,3845,10,10,37,1,0,oc1648641228.ibm.com
+1622519775850,36,499 - /selenium/simple-form (),200,OK,Thread Group 1-7,true,,4534,10,10,36,1,0,oc1648641228.ibm.com
+1622519775818,68,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,17430,10,10,68,1,0,oc1648641228.ibm.com
+1622519775858,31,548 - /selenium/upload (),200,OK,Thread Group 1-6,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519775857,31,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519775858,40,515 - /selenium/frame1 (),200,OK,Thread Group 1-5,true,,2176,10,10,40,1,0,oc1648641228.ibm.com
+1622519775862,36,528 - /selenium/login-form (),200,OK,Thread Group 1-3,true,,3845,10,10,36,1,0,oc1648641228.ibm.com
+1622519775862,36,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,true,,3845,10,10,36,1,0,oc1648641228.ibm.com
+1622519775862,36,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-8,true,,12544,10,10,36,1,0,oc1648641228.ibm.com
+1622519775830,68,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,18883,10,10,68,1,0,oc1648641228.ibm.com
+1622519775870,30,537 - /selenium/tables (),200,OK,Thread Group 1-2,true,,6339,10,10,30,1,0,oc1648641228.ibm.com
+1622519775871,36,528 - /selenium/login-form (),200,OK,Thread Group 1-1,true,,3845,10,10,36,1,0,oc1648641228.ibm.com
+1622519775870,36,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3845,10,10,36,1,0,oc1648641228.ibm.com
+1622519775877,34,499 - /selenium/simple-form (),200,OK,Thread Group 1-10,true,,4534,10,10,34,1,0,oc1648641228.ibm.com
+1622519775845,66,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,17430,10,10,66,1,0,oc1648641228.ibm.com
+1622519775883,30,537 - /selenium/tables (),200,OK,Thread Group 1-4,true,,6339,10,10,30,1,0,oc1648641228.ibm.com
+1622519775882,33,537 - /selenium/tables (),200,OK,Thread Group 1-9,true,,6339,10,10,33,1,0,oc1648641228.ibm.com
+1622519775890,28,481 - /selenium (),200,OK,Thread Group 1-6,true,,12900,10,10,28,1,0,oc1648641228.ibm.com
+1622519775886,35,508 - /selenium/iframes (),200,OK,Thread Group 1-7,true,,2783,10,10,35,1,0,oc1648641228.ibm.com
+1622519775899,28,548 - /selenium/upload (),200,OK,Thread Group 1-8,true,,3219,10,10,28,1,0,oc1648641228.ibm.com
+1622519775898,28,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,true,,3219,10,10,28,1,0,oc1648641228.ibm.com
+1622519775898,31,537 - /selenium/tables (),200,OK,Thread Group 1-3,true,,6339,10,10,31,1,0,oc1648641228.ibm.com
+1622519775898,33,516 - /selenium/frame2 (),200,OK,Thread Group 1-5,true,,2183,10,10,33,1,0,oc1648641228.ibm.com
+1622519775818,113,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,true,,7142,10,10,113,1,0,oc1648641228.ibm.com
+1622519775901,31,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-2,true,,12544,10,10,31,1,0,oc1648641228.ibm.com
+1622519775870,61,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,18883,10,10,61,1,0,oc1648641228.ibm.com
+1622519775907,30,537 - /selenium/tables (),200,OK,Thread Group 1-1,true,,6339,10,10,30,1,0,oc1648641228.ibm.com
+1622519775914,29,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-4,true,,12544,10,10,29,1,0,oc1648641228.ibm.com
+1622519775883,59,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,18883,10,10,59,1,0,oc1648641228.ibm.com
+1622519775911,33,508 - /selenium/iframes (),200,OK,Thread Group 1-10,true,,2783,10,10,33,1,0,oc1648641228.ibm.com
+1622519775915,33,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-9,true,,12544,10,10,33,1,0,oc1648641228.ibm.com
+1622519775882,66,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,18883,10,10,66,1,0,oc1648641228.ibm.com
+1622519775919,32,499 - /selenium/simple-form (),200,OK,Thread Group 1-6,true,,4534,10,10,32,1,0,oc1648641228.ibm.com
+1622519775889,60,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,17434,10,10,60,1,0,oc1648641228.ibm.com
+1622519775921,32,515 - /selenium/frame1 (),200,OK,Thread Group 1-7,true,,2176,10,10,32,1,0,oc1648641228.ibm.com
+1622519775928,30,481 - /selenium (),200,OK,Thread Group 1-8,true,,12890,10,10,30,1,0,oc1648641228.ibm.com
+1622519775930,34,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-3,true,,12544,10,10,34,1,0,oc1648641228.ibm.com
+1622519775898,65,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,18883,10,10,65,1,0,oc1648641228.ibm.com
+1622519775933,32,548 - /selenium/upload (),200,OK,Thread Group 1-2,true,,3219,10,10,32,1,0,oc1648641228.ibm.com
+1622519775932,32,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,true,,3219,10,10,32,1,0,oc1648641228.ibm.com
+1622519775932,36,528 - /selenium/login-form (),200,OK,Thread Group 1-5,true,,3845,10,10,36,1,0,oc1648641228.ibm.com
+1622519775931,36,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,true,,3845,10,10,36,1,0,oc1648641228.ibm.com
+1622519775938,30,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-1,true,,12544,10,10,30,1,0,oc1648641228.ibm.com
+1622519775907,60,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,18883,10,10,60,1,0,oc1648641228.ibm.com
+1622519775944,31,548 - /selenium/upload (),200,OK,Thread Group 1-4,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519775943,31,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519775945,35,515 - /selenium/frame1 (),200,OK,Thread Group 1-10,true,,2176,10,10,35,1,0,oc1648641228.ibm.com
+1622519775949,33,548 - /selenium/upload (),200,OK,Thread Group 1-9,true,,3219,10,10,33,1,0,oc1648641228.ibm.com
+1622519775949,33,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,true,,3219,10,10,33,1,0,oc1648641228.ibm.com
+1622519775951,34,508 - /selenium/iframes (),200,OK,Thread Group 1-6,true,,2783,10,10,34,1,0,oc1648641228.ibm.com
+1622519775954,33,516 - /selenium/frame2 (),200,OK,Thread Group 1-7,true,,2183,10,10,33,1,0,oc1648641228.ibm.com
+1622519775886,100,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,true,,7142,10,10,100,1,0,oc1648641228.ibm.com
+1622519775958,34,499 - /selenium/simple-form (),200,OK,Thread Group 1-8,true,,4534,10,10,34,1,0,oc1648641228.ibm.com
+1622519775928,64,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,17424,10,10,64,1,0,oc1648641228.ibm.com
+1622519775965,29,548 - /selenium/upload (),200,OK,Thread Group 1-3,true,,3219,10,10,29,1,0,oc1648641228.ibm.com
+1622519775964,29,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,true,,3219,10,10,29,1,0,oc1648641228.ibm.com
+1622519775966,34,481 - /selenium (),200,OK,Thread Group 1-2,true,,12893,10,10,34,1,0,oc1648641228.ibm.com
+1622519775968,39,537 - /selenium/tables (),200,OK,Thread Group 1-5,true,,6339,10,10,38,1,0,oc1648641228.ibm.com
+1622519775976,31,481 - /selenium (),200,OK,Thread Group 1-4,true,,12895,10,10,31,1,0,oc1648641228.ibm.com
+1622519775969,40,548 - /selenium/upload (),200,OK,Thread Group 1-1,true,,3219,10,10,40,1,0,oc1648641228.ibm.com
+1622519775969,40,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3219,10,10,40,1,0,oc1648641228.ibm.com
+1622519775983,36,481 - /selenium (),200,OK,Thread Group 1-9,true,,12901,10,10,36,1,0,oc1648641228.ibm.com
+1622519775994,31,481 - /selenium (),200,OK,Thread Group 1-3,true,,12897,10,10,31,1,0,oc1648641228.ibm.com
+1622519775981,45,516 - /selenium/frame2 (),200,OK,Thread Group 1-10,true,,2183,10,10,45,1,0,oc1648641228.ibm.com
+1622519775911,113,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,true,,7142,10,10,113,1,0,oc1648641228.ibm.com
+1622519775986,41,515 - /selenium/frame1 (),200,OK,Thread Group 1-6,true,,2176,10,10,41,1,0,oc1648641228.ibm.com
+1622519775988,42,528 - /selenium/login-form (),200,OK,Thread Group 1-7,true,,3845,10,10,42,1,0,oc1648641228.ibm.com
+1622519775988,42,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,true,,3845,10,10,42,1,0,oc1648641228.ibm.com
+1622519775992,38,508 - /selenium/iframes (),200,OK,Thread Group 1-8,true,,2783,10,10,38,1,0,oc1648641228.ibm.com
+1622519776001,32,499 - /selenium/simple-form (),200,OK,Thread Group 1-2,true,,4534,10,10,32,1,0,oc1648641228.ibm.com
+1622519775966,66,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,17427,10,10,66,1,0,oc1648641228.ibm.com
+1622519776007,29,499 - /selenium/simple-form (),200,OK,Thread Group 1-4,true,,4534,10,10,29,1,0,oc1648641228.ibm.com
+1622519775976,60,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,17429,10,10,60,1,0,oc1648641228.ibm.com
+1622519776007,31,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-5,true,,12544,10,10,31,1,0,oc1648641228.ibm.com
+1622519775968,70,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,18883,10,10,69,1,0,oc1648641228.ibm.com
+1622519776010,30,481 - /selenium (),200,OK,Thread Group 1-1,true,,12893,10,10,30,1,0,oc1648641228.ibm.com
+1622519776020,29,499 - /selenium/simple-form (),200,OK,Thread Group 1-9,true,,4534,10,10,29,1,0,oc1648641228.ibm.com
+1622519775983,65,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,17435,10,10,65,1,0,oc1648641228.ibm.com
+1622519776027,29,516 - /selenium/frame2 (),200,OK,Thread Group 1-6,true,,2183,10,10,29,1,0,oc1648641228.ibm.com
+1622519775951,104,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,true,,7142,10,10,104,1,0,oc1648641228.ibm.com
+1622519776025,36,499 - /selenium/simple-form (),200,OK,Thread Group 1-3,true,,4534,10,10,36,1,0,oc1648641228.ibm.com
+1622519775994,67,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,17431,10,10,67,1,0,oc1648641228.ibm.com
+1622519776026,37,528 - /selenium/login-form (),200,OK,Thread Group 1-10,true,,3845,10,10,37,1,0,oc1648641228.ibm.com
+1622519776026,37,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,true,,3845,10,10,37,1,0,oc1648641228.ibm.com
+1622519776031,37,537 - /selenium/tables (),200,OK,Thread Group 1-7,true,,6339,10,10,37,1,0,oc1648641228.ibm.com
+1622519776031,37,515 - /selenium/frame1 (),200,OK,Thread Group 1-8,true,,2176,10,10,37,1,0,oc1648641228.ibm.com
+1622519776034,39,508 - /selenium/iframes (),200,OK,Thread Group 1-2,true,,2783,10,10,39,1,0,oc1648641228.ibm.com
+1622519776037,38,508 - /selenium/iframes (),200,OK,Thread Group 1-4,true,,2783,10,10,38,1,0,oc1648641228.ibm.com
+1622519776040,38,499 - /selenium/simple-form (),200,OK,Thread Group 1-1,true,,4534,10,10,38,1,0,oc1648641228.ibm.com
+1622519776010,68,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,17427,10,10,68,1,0,oc1648641228.ibm.com
+1622519776039,39,548 - /selenium/upload (),200,OK,Thread Group 1-5,true,,3219,10,10,39,1,0,oc1648641228.ibm.com
+1622519776038,39,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,true,,3219,10,10,39,1,0,oc1648641228.ibm.com
+1622519776050,30,508 - /selenium/iframes (),200,OK,Thread Group 1-9,true,,2783,10,10,30,1,0,oc1648641228.ibm.com
+1622519776056,28,528 - /selenium/login-form (),200,OK,Thread Group 1-6,true,,3845,10,10,28,1,0,oc1648641228.ibm.com
+1622519776056,28,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,true,,3845,10,10,28,1,0,oc1648641228.ibm.com
+1622519776061,28,508 - /selenium/iframes (),200,OK,Thread Group 1-3,true,,2783,10,10,28,1,0,oc1648641228.ibm.com
+1622519776063,32,537 - /selenium/tables (),200,OK,Thread Group 1-10,true,,6339,10,10,32,1,0,oc1648641228.ibm.com
+1622519776068,28,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-7,true,,12544,10,10,28,1,0,oc1648641228.ibm.com
+1622519776030,65,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,18883,10,10,65,1,0,oc1648641228.ibm.com
+1622519776068,30,516 - /selenium/frame2 (),200,OK,Thread Group 1-8,true,,2183,10,10,30,1,0,oc1648641228.ibm.com
+1622519775992,105,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,true,,7142,10,10,105,1,0,oc1648641228.ibm.com
+1622519776073,27,515 - /selenium/frame1 (),200,OK,Thread Group 1-2,true,,2176,10,10,27,1,0,oc1648641228.ibm.com
+1622519776075,28,515 - /selenium/frame1 (),200,OK,Thread Group 1-4,true,,2176,10,10,28,1,0,oc1648641228.ibm.com
+1622519776079,32,481 - /selenium (),200,OK,Thread Group 1-5,true,,12897,10,10,32,1,0,oc1648641228.ibm.com
+1622519776080,33,515 - /selenium/frame1 (),200,OK,Thread Group 1-9,true,,2176,10,10,33,1,0,oc1648641228.ibm.com
+1622519776078,36,508 - /selenium/iframes (),200,OK,Thread Group 1-1,true,,2783,10,10,36,1,0,oc1648641228.ibm.com
+1622519776085,31,537 - /selenium/tables (),200,OK,Thread Group 1-6,true,,6339,10,10,31,1,0,oc1648641228.ibm.com
+1622519776089,29,515 - /selenium/frame1 (),200,OK,Thread Group 1-3,true,,2176,10,10,29,1,0,oc1648641228.ibm.com
+1622519776097,25,548 - /selenium/upload (),200,OK,Thread Group 1-7,true,,3219,10,10,25,1,0,oc1648641228.ibm.com
+1622519776096,25,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,true,,3219,10,10,25,1,0,oc1648641228.ibm.com
+1622519776098,29,528 - /selenium/login-form (),200,OK,Thread Group 1-8,true,,3845,10,10,29,1,0,oc1648641228.ibm.com
+1622519776098,29,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,true,,3845,10,10,29,1,0,oc1648641228.ibm.com
+1622519776095,33,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-10,true,,12544,10,10,33,1,0,oc1648641228.ibm.com
+1622519776063,65,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,18883,10,10,65,1,0,oc1648641228.ibm.com
+1622519776101,30,516 - /selenium/frame2 (),200,OK,Thread Group 1-2,true,,2183,10,10,30,1,0,oc1648641228.ibm.com
+1622519776034,96,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,true,,7142,10,10,96,1,0,oc1648641228.ibm.com
+1622519776103,30,516 - /selenium/frame2 (),200,OK,Thread Group 1-4,true,,2183,10,10,30,1,0,oc1648641228.ibm.com
+1622519776036,96,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,true,,7142,10,10,96,1,0,oc1648641228.ibm.com
+1622519776111,31,499 - /selenium/simple-form (),200,OK,Thread Group 1-5,true,,4534,10,10,31,1,0,oc1648641228.ibm.com
+1622519776079,63,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,17431,10,10,63,1,0,oc1648641228.ibm.com
+1622519776116,32,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-6,true,,12544,10,10,32,1,0,oc1648641228.ibm.com
+1622519776084,63,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,18883,10,10,63,1,0,oc1648641228.ibm.com
+1622519776114,37,515 - /selenium/frame1 (),200,OK,Thread Group 1-1,true,,2176,10,10,37,1,0,oc1648641228.ibm.com
+1622519776113,38,516 - /selenium/frame2 (),200,OK,Thread Group 1-9,true,,2183,10,10,38,1,0,oc1648641228.ibm.com
+1622519776049,101,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,true,,7142,10,10,101,1,0,oc1648641228.ibm.com
+1622519776118,38,516 - /selenium/frame2 (),200,OK,Thread Group 1-3,true,,2183,10,10,38,1,0,oc1648641228.ibm.com
+1622519776061,95,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,true,,7142,10,10,95,1,0,oc1648641228.ibm.com
+1622519776122,34,481 - /selenium (),200,OK,Thread Group 1-7,true,,12892,10,10,34,1,0,oc1648641228.ibm.com
+1622519776131,33,528 - /selenium/login-form (),200,OK,Thread Group 1-2,true,,3845,10,10,33,1,0,oc1648641228.ibm.com
+1622519776128,36,548 - /selenium/upload (),200,OK,Thread Group 1-10,true,,3219,10,10,36,1,0,oc1648641228.ibm.com
+1622519776128,36,537 - /selenium/tables (),200,OK,Thread Group 1-8,true,,6339,10,10,36,1,0,oc1648641228.ibm.com
+1622519776131,33,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,true,,3845,10,10,33,1,0,oc1648641228.ibm.com
+1622519776128,36,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,true,,3219,10,10,36,1,0,oc1648641228.ibm.com
+1622519776133,34,528 - /selenium/login-form (),200,OK,Thread Group 1-4,true,,3845,10,10,34,1,0,oc1648641228.ibm.com
+1622519776133,34,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,true,,3845,10,10,34,1,0,oc1648641228.ibm.com
+1622519776142,31,508 - /selenium/iframes (),200,OK,Thread Group 1-5,true,,2783,10,10,31,1,0,oc1648641228.ibm.com
+1622519776148,28,548 - /selenium/upload (),200,OK,Thread Group 1-6,true,,3219,10,10,28,1,0,oc1648641228.ibm.com
+1622519776148,28,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,true,,3219,10,10,28,1,0,oc1648641228.ibm.com
+1622519776151,30,528 - /selenium/login-form (),200,OK,Thread Group 1-9,true,,3845,10,10,30,1,0,oc1648641228.ibm.com
+1622519776151,30,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,true,,3845,10,10,30,1,0,oc1648641228.ibm.com
+1622519776151,33,516 - /selenium/frame2 (),200,OK,Thread Group 1-1,true,,2183,10,10,33,1,0,oc1648641228.ibm.com
+1622519776078,106,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,true,,7142,10,10,106,1,0,oc1648641228.ibm.com
+1622519776157,31,499 - /selenium/simple-form (),200,OK,Thread Group 1-7,true,,4534,10,10,31,1,0,oc1648641228.ibm.com
+1622519776122,65,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,17426,10,10,65,1,0,oc1648641228.ibm.com
+1622519776156,34,528 - /selenium/login-form (),200,OK,Thread Group 1-3,true,,3845,10,10,34,1,0,oc1648641228.ibm.com
+1622519776156,34,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,true,,3845,10,10,34,1,0,oc1648641228.ibm.com
+1622519776165,28,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-8,true,,12544,10,10,28,1,0,oc1648641228.ibm.com
+1622519776127,64,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,18883,10,10,64,1,0,oc1648641228.ibm.com
+1622519776165,35,481 - /selenium (),200,OK,Thread Group 1-10,true,,12896,10,10,35,1,0,oc1648641228.ibm.com
+1622519776165,35,537 - /selenium/tables (),200,OK,Thread Group 1-2,true,,6339,10,10,35,1,0,oc1648641228.ibm.com
+1622519776176,30,481 - /selenium (),200,OK,Thread Group 1-6,true,,12898,10,10,30,1,0,oc1648641228.ibm.com
+1622519776167,46,537 - /selenium/tables (),200,OK,Thread Group 1-4,true,,6339,10,10,46,1,0,oc1648641228.ibm.com
+1622519776174,46,515 - /selenium/frame1 (),200,OK,Thread Group 1-5,true,,2176,10,10,46,1,0,oc1648641228.ibm.com
+1622519776182,44,537 - /selenium/tables (),200,OK,Thread Group 1-9,true,,6339,10,10,44,1,0,oc1648641228.ibm.com
+1622519776185,58,528 - /selenium/login-form (),200,OK,Thread Group 1-1,true,,3845,10,10,58,1,0,oc1648641228.ibm.com
+1622519776185,58,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3845,10,10,58,1,0,oc1648641228.ibm.com
+1622519776188,55,508 - /selenium/iframes (),200,OK,Thread Group 1-7,true,,2783,10,10,55,1,0,oc1648641228.ibm.com
+1622519776190,65,537 - /selenium/tables (),200,OK,Thread Group 1-3,true,,6339,10,10,65,1,0,oc1648641228.ibm.com
+1622519776193,68,548 - /selenium/upload (),200,OK,Thread Group 1-8,true,,3219,10,10,68,1,0,oc1648641228.ibm.com
+1622519776193,68,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,true,,3219,10,10,68,1,0,oc1648641228.ibm.com
+1622519776201,61,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-2,true,,12544,10,10,61,1,0,oc1648641228.ibm.com
+1622519776165,96,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,18883,10,10,96,1,0,oc1648641228.ibm.com
+1622519776213,49,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-4,true,,12544,10,10,49,1,0,oc1648641228.ibm.com
+1622519776167,95,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,18883,10,10,95,1,0,oc1648641228.ibm.com
+1622519776206,64,499 - /selenium/simple-form (),200,OK,Thread Group 1-6,true,,4534,10,10,64,1,0,oc1648641228.ibm.com
+1622519776201,69,499 - /selenium/simple-form (),200,OK,Thread Group 1-10,true,,4534,10,10,69,1,0,oc1648641228.ibm.com
+1622519776176,94,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,17432,10,10,94,1,0,oc1648641228.ibm.com
+1622519776165,104,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,17430,10,10,104,1,0,oc1648641228.ibm.com
+1622519776226,48,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-9,true,,12544,10,10,48,1,0,oc1648641228.ibm.com
+1622519776181,92,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,18883,10,10,92,1,0,oc1648641228.ibm.com
+1622519776220,55,516 - /selenium/frame2 (),200,OK,Thread Group 1-5,true,,2183,10,10,55,1,0,oc1648641228.ibm.com
+1622519776142,132,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,true,,7142,10,10,132,1,0,oc1648641228.ibm.com
+1622519776243,35,515 - /selenium/frame1 (),200,OK,Thread Group 1-7,true,,2176,10,10,35,1,0,oc1648641228.ibm.com
+1622519776243,36,537 - /selenium/tables (),200,OK,Thread Group 1-1,true,,6339,10,10,36,1,0,oc1648641228.ibm.com
+1622519776255,29,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-3,true,,12544,10,10,29,1,0,oc1648641228.ibm.com
+1622519776190,94,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,18883,10,10,94,1,0,oc1648641228.ibm.com
+1622519776261,29,481 - /selenium (),200,OK,Thread Group 1-8,true,,12896,10,10,29,1,0,oc1648641228.ibm.com
+1622519776263,43,548 - /selenium/upload (),200,OK,Thread Group 1-4,true,,3219,10,10,43,1,0,oc1648641228.ibm.com
+1622519776262,44,548 - /selenium/upload (),200,OK,Thread Group 1-2,true,,3219,10,10,44,1,0,oc1648641228.ibm.com
+1622519776263,43,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,true,,3219,10,10,43,1,0,oc1648641228.ibm.com
+1622519776262,44,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,true,,3219,10,10,44,1,0,oc1648641228.ibm.com
+1622519776270,41,508 - /selenium/iframes (),200,OK,Thread Group 1-6,true,,2783,10,10,41,1,0,oc1648641228.ibm.com
+1622519776279,34,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-1,true,,12544,10,10,34,1,0,oc1648641228.ibm.com
+1622519776243,70,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,18883,10,10,70,1,0,oc1648641228.ibm.com
+1622519776274,47,548 - /selenium/upload (),200,OK,Thread Group 1-9,true,,3219,10,10,47,1,0,oc1648641228.ibm.com
+1622519776270,51,508 - /selenium/iframes (),200,OK,Thread Group 1-10,true,,2783,10,10,51,1,0,oc1648641228.ibm.com
+1622519776278,43,516 - /selenium/frame2 (),200,OK,Thread Group 1-7,true,,2183,10,10,43,1,0,oc1648641228.ibm.com
+1622519776274,47,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,true,,3219,10,10,47,1,0,oc1648641228.ibm.com
+1622519776188,133,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,true,,7142,10,10,133,1,0,oc1648641228.ibm.com
+1622519776275,47,528 - /selenium/login-form (),200,OK,Thread Group 1-5,true,,3845,10,10,47,1,0,oc1648641228.ibm.com
+1622519776275,47,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,true,,3845,10,10,47,1,0,oc1648641228.ibm.com
+1622519776284,40,548 - /selenium/upload (),200,OK,Thread Group 1-3,true,,3219,10,10,40,1,0,oc1648641228.ibm.com
+1622519776284,40,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,true,,3219,10,10,40,1,0,oc1648641228.ibm.com
+1622519776290,38,499 - /selenium/simple-form (),200,OK,Thread Group 1-8,true,,4534,10,10,38,1,0,oc1648641228.ibm.com
+1622519776261,67,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,17430,10,10,67,1,0,oc1648641228.ibm.com
+1622519776306,33,481 - /selenium (),200,OK,Thread Group 1-2,true,,12890,10,10,33,1,0,oc1648641228.ibm.com
+1622519776306,33,481 - /selenium (),200,OK,Thread Group 1-4,true,,12896,10,10,33,1,0,oc1648641228.ibm.com
+1622519776312,31,515 - /selenium/frame1 (),200,OK,Thread Group 1-6,true,,2176,10,10,31,1,0,oc1648641228.ibm.com
+1622519776313,30,548 - /selenium/upload (),200,OK,Thread Group 1-1,true,,3219,10,10,30,1,0,oc1648641228.ibm.com
+1622519776313,30,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3219,10,10,30,1,0,oc1648641228.ibm.com
+1622519776322,28,528 - /selenium/login-form (),200,OK,Thread Group 1-7,true,,3845,10,10,28,1,0,oc1648641228.ibm.com
+1622519776322,28,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,true,,3845,10,10,28,1,0,oc1648641228.ibm.com
+1622519776322,33,481 - /selenium (),200,OK,Thread Group 1-9,true,,12889,10,10,33,1,0,oc1648641228.ibm.com
+1622519776325,34,481 - /selenium (),200,OK,Thread Group 1-3,true,,12893,10,10,34,1,0,oc1648641228.ibm.com
+1622519776323,39,537 - /selenium/tables (),200,OK,Thread Group 1-5,true,,6339,10,10,39,1,0,oc1648641228.ibm.com
+1622519776322,40,515 - /selenium/frame1 (),200,OK,Thread Group 1-10,true,,2176,10,10,40,1,0,oc1648641228.ibm.com
+1622519776329,35,508 - /selenium/iframes (),200,OK,Thread Group 1-8,true,,2783,10,10,35,1,0,oc1648641228.ibm.com
+1622519776340,33,499 - /selenium/simple-form (),200,OK,Thread Group 1-2,true,,4534,10,10,33,1,0,oc1648641228.ibm.com
+1622519776340,33,499 - /selenium/simple-form (),200,OK,Thread Group 1-4,true,,4534,10,10,33,1,0,oc1648641228.ibm.com
+1622519776306,66,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,17430,10,10,66,1,0,oc1648641228.ibm.com
+1622519776306,66,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,17424,10,10,66,1,0,oc1648641228.ibm.com
+1622519776344,33,516 - /selenium/frame2 (),200,OK,Thread Group 1-6,true,,2183,10,10,33,1,0,oc1648641228.ibm.com
+1622519776270,105,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,true,,7142,10,10,105,1,0,oc1648641228.ibm.com
+1622519776344,33,481 - /selenium (),200,OK,Thread Group 1-1,true,,12893,10,10,33,1,0,oc1648641228.ibm.com
+1622519776350,30,537 - /selenium/tables (),200,OK,Thread Group 1-7,true,,6339,10,10,30,1,0,oc1648641228.ibm.com
+1622519776355,28,499 - /selenium/simple-form (),200,OK,Thread Group 1-9,true,,4534,10,10,28,1,0,oc1648641228.ibm.com
+1622519776322,61,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,17423,10,10,61,1,0,oc1648641228.ibm.com
+1622519776359,29,499 - /selenium/simple-form (),200,OK,Thread Group 1-3,true,,4534,10,10,29,1,0,oc1648641228.ibm.com
+1622519776325,63,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,17427,10,10,63,1,0,oc1648641228.ibm.com
+1622519776362,28,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-5,true,,12544,10,10,28,1,0,oc1648641228.ibm.com
+1622519776322,67,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,18883,10,10,67,1,0,oc1648641228.ibm.com
+1622519776362,35,516 - /selenium/frame2 (),200,OK,Thread Group 1-10,true,,2183,10,10,35,1,0,oc1648641228.ibm.com
+1622519776364,33,515 - /selenium/frame1 (),200,OK,Thread Group 1-8,true,,2176,10,10,33,1,0,oc1648641228.ibm.com
+1622519776270,126,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,true,,7142,10,10,126,1,0,oc1648641228.ibm.com
+1622519776373,31,508 - /selenium/iframes (),200,OK,Thread Group 1-2,true,,2783,10,10,31,1,0,oc1648641228.ibm.com
+1622519776373,32,508 - /selenium/iframes (),200,OK,Thread Group 1-4,true,,2783,10,10,32,1,0,oc1648641228.ibm.com
+1622519776377,29,528 - /selenium/login-form (),200,OK,Thread Group 1-6,true,,3845,10,10,29,1,0,oc1648641228.ibm.com
+1622519776377,29,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,true,,3845,10,10,29,1,0,oc1648641228.ibm.com
+1622519776380,28,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-7,true,,12544,10,10,28,1,0,oc1648641228.ibm.com
+1622519776350,58,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,18883,10,10,58,1,0,oc1648641228.ibm.com
+1622519776377,33,499 - /selenium/simple-form (),200,OK,Thread Group 1-1,true,,4534,10,10,33,1,0,oc1648641228.ibm.com
+1622519776344,66,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,17427,10,10,66,1,0,oc1648641228.ibm.com
+1622519776383,30,508 - /selenium/iframes (),200,OK,Thread Group 1-9,true,,2783,10,10,30,1,0,oc1648641228.ibm.com
+1622519776388,31,508 - /selenium/iframes (),200,OK,Thread Group 1-3,true,,2783,10,10,31,1,0,oc1648641228.ibm.com
+1622519776390,31,548 - /selenium/upload (),200,OK,Thread Group 1-5,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519776390,31,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519776397,27,516 - /selenium/frame2 (),200,OK,Thread Group 1-8,true,,2183,10,10,27,1,0,oc1648641228.ibm.com
+1622519776329,95,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,true,,7142,10,10,95,1,0,oc1648641228.ibm.com
+1622519776397,31,528 - /selenium/login-form (),200,OK,Thread Group 1-10,true,,3845,10,10,31,1,0,oc1648641228.ibm.com
+1622519776397,31,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,true,,3845,10,10,31,1,0,oc1648641228.ibm.com
+1622519776404,38,515 - /selenium/frame1 (),200,OK,Thread Group 1-2,true,,2176,10,10,37,1,0,oc1648641228.ibm.com
+1622519776405,37,515 - /selenium/frame1 (),200,OK,Thread Group 1-4,true,,2176,10,10,37,1,0,oc1648641228.ibm.com
+1622519776408,37,548 - /selenium/upload (),200,OK,Thread Group 1-7,true,,3219,10,10,37,1,0,oc1648641228.ibm.com
+1622519776408,37,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,true,,3219,10,10,37,1,0,oc1648641228.ibm.com
+1622519776407,38,537 - /selenium/tables (),200,OK,Thread Group 1-6,true,,6339,10,10,38,1,0,oc1648641228.ibm.com
+1622519776410,37,508 - /selenium/iframes (),200,OK,Thread Group 1-1,true,,2783,10,10,37,1,0,oc1648641228.ibm.com
+1622519776413,36,515 - /selenium/frame1 (),200,OK,Thread Group 1-9,true,,2176,10,10,36,1,0,oc1648641228.ibm.com
+1622519776422,31,481 - /selenium (),200,OK,Thread Group 1-5,true,,12887,10,10,31,1,0,oc1648641228.ibm.com
+1622519776420,34,515 - /selenium/frame1 (),200,OK,Thread Group 1-3,true,,2176,10,10,34,1,0,oc1648641228.ibm.com
+1622519776425,31,528 - /selenium/login-form (),200,OK,Thread Group 1-8,true,,3845,10,10,31,1,0,oc1648641228.ibm.com
+1622519776425,31,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,true,,3845,10,10,31,1,0,oc1648641228.ibm.com
+1622519776428,32,537 - /selenium/tables (),200,OK,Thread Group 1-10,true,,6339,10,10,32,1,0,oc1648641228.ibm.com
+1622519776445,29,481 - /selenium (),200,OK,Thread Group 1-7,true,,12900,10,10,29,1,0,oc1648641228.ibm.com
+1622519776442,34,516 - /selenium/frame2 (),200,OK,Thread Group 1-2,true,,2183,10,10,34,1,0,oc1648641228.ibm.com
+1622519776373,103,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,true,,7142,10,10,102,1,0,oc1648641228.ibm.com
+1622519776442,35,516 - /selenium/frame2 (),200,OK,Thread Group 1-4,true,,2183,10,10,35,1,0,oc1648641228.ibm.com
+1622519776373,104,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,true,,7142,10,10,104,1,0,oc1648641228.ibm.com
+1622519776446,32,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-6,true,,12544,10,10,32,1,0,oc1648641228.ibm.com
+1622519776406,70,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,18883,10,10,70,1,0,oc1648641228.ibm.com
+1622519776447,34,515 - /selenium/frame1 (),200,OK,Thread Group 1-1,true,,2176,10,10,34,1,0,oc1648641228.ibm.com
+1622519776449,32,516 - /selenium/frame2 (),200,OK,Thread Group 1-9,true,,2183,10,10,32,1,0,oc1648641228.ibm.com
+1622519776383,98,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,true,,7142,10,10,98,1,0,oc1648641228.ibm.com
+1622519776454,33,516 - /selenium/frame2 (),200,OK,Thread Group 1-3,true,,2183,10,10,33,1,0,oc1648641228.ibm.com
+1622519776388,98,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,true,,7142,10,10,98,1,0,oc1648641228.ibm.com
+1622519776456,31,537 - /selenium/tables (),200,OK,Thread Group 1-8,true,,6339,10,10,31,1,0,oc1648641228.ibm.com
+1622519776453,34,499 - /selenium/simple-form (),200,OK,Thread Group 1-5,true,,4534,10,10,34,1,0,oc1648641228.ibm.com
+1622519776422,65,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,17421,10,10,65,1,0,oc1648641228.ibm.com
+1622519776460,31,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-10,true,,12544,10,10,31,1,0,oc1648641228.ibm.com
+1622519776428,63,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,18883,10,10,63,1,0,oc1648641228.ibm.com
+1622519776474,27,499 - /selenium/simple-form (),200,OK,Thread Group 1-7,true,,4534,10,10,27,1,0,oc1648641228.ibm.com
+1622519776445,56,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,17434,10,10,56,1,0,oc1648641228.ibm.com
+1622519776477,30,528 - /selenium/login-form (),200,OK,Thread Group 1-2,true,,3845,10,10,30,1,0,oc1648641228.ibm.com
+1622519776477,30,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,true,,3845,10,10,30,1,0,oc1648641228.ibm.com
+1622519776477,30,528 - /selenium/login-form (),200,OK,Thread Group 1-4,true,,3845,10,10,30,1,0,oc1648641228.ibm.com
+1622519776477,30,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,true,,3845,10,10,30,1,0,oc1648641228.ibm.com
+1622519776478,31,548 - /selenium/upload (),200,OK,Thread Group 1-6,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519776478,31,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519776482,31,528 - /selenium/login-form (),200,OK,Thread Group 1-9,true,,3845,10,10,31,1,0,oc1648641228.ibm.com
+1622519776481,32,516 - /selenium/frame2 (),200,OK,Thread Group 1-1,true,,2183,10,10,32,1,0,oc1648641228.ibm.com
+1622519776482,31,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,true,,3845,10,10,31,1,0,oc1648641228.ibm.com
+1622519776410,103,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,true,,7142,10,10,103,1,0,oc1648641228.ibm.com
+1622519776488,28,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-8,true,,12544,10,10,28,1,0,oc1648641228.ibm.com
+1622519776456,59,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,18883,10,10,59,1,0,oc1648641228.ibm.com
+1622519776487,32,528 - /selenium/login-form (),200,OK,Thread Group 1-3,true,,3845,10,10,32,1,0,oc1648641228.ibm.com
+1622519776487,32,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,true,,3845,10,10,32,1,0,oc1648641228.ibm.com
+1622519776488,31,508 - /selenium/iframes (),200,OK,Thread Group 1-5,true,,2783,10,10,31,1,0,oc1648641228.ibm.com
+1622519776491,31,548 - /selenium/upload (),200,OK,Thread Group 1-10,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519776491,31,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519776502,29,508 - /selenium/iframes (),200,OK,Thread Group 1-7,true,,2783,10,10,29,1,0,oc1648641228.ibm.com
+1622519776510,26,481 - /selenium (),200,OK,Thread Group 1-6,true,,12895,10,10,26,1,0,oc1648641228.ibm.com
+1622519776507,32,537 - /selenium/tables (),200,OK,Thread Group 1-2,true,,6339,10,10,32,1,0,oc1648641228.ibm.com
+1622519776508,32,537 - /selenium/tables (),200,OK,Thread Group 1-4,true,,6339,10,10,32,1,0,oc1648641228.ibm.com
+1622519776514,30,537 - /selenium/tables (),200,OK,Thread Group 1-9,true,,6339,10,10,30,1,0,oc1648641228.ibm.com
+1622519776514,32,528 - /selenium/login-form (),200,OK,Thread Group 1-1,true,,3845,10,10,32,1,0,oc1648641228.ibm.com
+1622519776513,32,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3845,10,10,32,1,0,oc1648641228.ibm.com
+1622519776517,33,548 - /selenium/upload (),200,OK,Thread Group 1-8,true,,3219,10,10,33,1,0,oc1648641228.ibm.com
+1622519776516,33,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,true,,3219,10,10,33,1,0,oc1648641228.ibm.com
+1622519776520,34,515 - /selenium/frame1 (),200,OK,Thread Group 1-5,true,,2176,10,10,34,1,0,oc1648641228.ibm.com
+1622519776519,35,537 - /selenium/tables (),200,OK,Thread Group 1-3,true,,6339,10,10,35,1,0,oc1648641228.ibm.com
+1622519776522,35,481 - /selenium (),200,OK,Thread Group 1-10,true,,12897,10,10,35,1,0,oc1648641228.ibm.com
+1622519776531,27,515 - /selenium/frame1 (),200,OK,Thread Group 1-7,true,,2176,10,10,27,1,0,oc1648641228.ibm.com
+1622519776537,25,499 - /selenium/simple-form (),200,OK,Thread Group 1-6,true,,4534,10,10,25,1,0,oc1648641228.ibm.com
+1622519776509,51,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,17429,10,10,51,1,0,oc1648641228.ibm.com
+1622519776540,29,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-2,true,,12544,10,10,29,1,0,oc1648641228.ibm.com
+1622519776507,61,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,18883,10,10,61,1,0,oc1648641228.ibm.com
+1622519776541,28,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-4,true,,12544,10,10,28,1,0,oc1648641228.ibm.com
+1622519776507,60,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,18883,10,10,60,1,0,oc1648641228.ibm.com
+1622519776544,27,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-9,true,,12544,10,10,27,1,0,oc1648641228.ibm.com
+1622519776513,57,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,18883,10,10,57,1,0,oc1648641228.ibm.com
+1622519776546,34,537 - /selenium/tables (),200,OK,Thread Group 1-1,true,,6339,10,10,34,1,0,oc1648641228.ibm.com
+1622519776550,35,481 - /selenium (),200,OK,Thread Group 1-8,true,,12899,10,10,35,1,0,oc1648641228.ibm.com
+1622519776554,34,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-3,true,,12544,10,10,34,1,0,oc1648641228.ibm.com
+1622519776519,69,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,18883,10,10,69,1,0,oc1648641228.ibm.com
+1622519776554,36,516 - /selenium/frame2 (),200,OK,Thread Group 1-5,true,,2183,10,10,36,1,0,oc1648641228.ibm.com
+1622519776488,101,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,true,,7142,10,10,101,1,0,oc1648641228.ibm.com
+1622519776559,33,516 - /selenium/frame2 (),200,OK,Thread Group 1-7,true,,2183,10,10,33,1,0,oc1648641228.ibm.com
+1622519776502,89,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-7,true,,7142,10,10,89,1,0,oc1648641228.ibm.com
+1622519776557,35,499 - /selenium/simple-form (),200,OK,Thread Group 1-10,true,,4534,10,10,35,1,0,oc1648641228.ibm.com
+1622519776522,70,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,17431,10,10,70,1,0,oc1648641228.ibm.com
+1622519776562,31,508 - /selenium/iframes (),200,OK,Thread Group 1-6,true,,2783,10,10,31,1,0,oc1648641228.ibm.com
+1622519776570,31,548 - /selenium/upload (),200,OK,Thread Group 1-2,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519776569,31,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519776570,31,548 - /selenium/upload (),200,OK,Thread Group 1-4,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519776570,31,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519776571,31,548 - /selenium/upload (),200,OK,Thread Group 1-9,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519776571,31,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,true,,3219,10,10,31,1,0,oc1648641228.ibm.com
+1622519776581,28,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-1,true,,12544,10,10,28,1,0,oc1648641228.ibm.com
+1622519776546,62,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,18883,10,10,62,1,0,oc1648641228.ibm.com
+1622519776585,31,499 - /selenium/simple-form (),200,OK,Thread Group 1-8,true,,4534,10,10,31,1,0,oc1648641228.ibm.com
+1622519776550,66,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,17433,10,10,66,1,0,oc1648641228.ibm.com
+1622519776588,35,548 - /selenium/upload (),200,OK,Thread Group 1-3,true,,3219,10,10,35,1,0,oc1648641228.ibm.com
+1622519776588,35,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,true,,3219,10,10,35,1,0,oc1648641228.ibm.com
+1622519776592,31,528 - /selenium/login-form (),200,OK,Thread Group 1-7,true,,3845,10,10,31,1,0,oc1648641228.ibm.com
+1622519776592,31,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,true,,3845,10,10,31,1,0,oc1648641228.ibm.com
+1622519776590,33,528 - /selenium/login-form (),200,OK,Thread Group 1-5,true,,3845,10,10,33,1,0,oc1648641228.ibm.com
+1622519776590,33,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,true,,3845,10,10,33,1,0,oc1648641228.ibm.com
+1622519776594,35,515 - /selenium/frame1 (),200,OK,Thread Group 1-6,true,,2176,10,10,35,1,0,oc1648641228.ibm.com
+1622519776592,37,508 - /selenium/iframes (),200,OK,Thread Group 1-10,true,,2783,10,10,37,1,0,oc1648641228.ibm.com
+1622519776603,35,481 - /selenium (),200,OK,Thread Group 1-9,true,,12903,10,10,35,1,0,oc1648641228.ibm.com
+1622519776601,37,481 - /selenium (),200,OK,Thread Group 1-2,true,,12899,10,10,37,1,0,oc1648641228.ibm.com
+1622519776602,36,481 - /selenium (),200,OK,Thread Group 1-4,true,,12894,10,10,36,1,0,oc1648641228.ibm.com
+1622519776610,32,548 - /selenium/upload (),200,OK,Thread Group 1-1,true,,3219,10,10,32,1,0,oc1648641228.ibm.com
+1622519776610,32,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3219,10,10,32,1,0,oc1648641228.ibm.com
+1622519776617,30,508 - /selenium/iframes (),200,OK,Thread Group 1-8,true,,2783,10,10,30,1,0,oc1648641228.ibm.com
+1622519776623,31,481 - /selenium (),200,OK,Thread Group 1-3,true,,12903,10,10,31,1,0,oc1648641228.ibm.com
+1622519776623,33,537 - /selenium/tables (),200,OK,Thread Group 1-7,true,,6339,10,10,33,1,0,oc1648641228.ibm.com
+1622519776623,40,537 - /selenium/tables (),200,OK,Thread Group 1-5,true,,6339,10,10,40,1,0,oc1648641228.ibm.com
+1622519776629,35,516 - /selenium/frame2 (),200,OK,Thread Group 1-6,true,,2183,10,10,35,1,0,oc1648641228.ibm.com
+1622519776562,101,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-6,true,,7142,10,10,101,1,0,oc1648641228.ibm.com
+1622519776629,38,515 - /selenium/frame1 (),200,OK,Thread Group 1-10,true,,2176,10,10,38,1,0,oc1648641228.ibm.com
+1622519776638,34,499 - /selenium/simple-form (),200,OK,Thread Group 1-2,true,,4534,10,10,34,1,0,oc1648641228.ibm.com
+1622519776638,34,499 - /selenium/simple-form (),200,OK,Thread Group 1-9,true,,4534,10,10,34,1,0,oc1648641228.ibm.com
+1622519776602,69,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,17437,10,10,69,1,0,oc1648641228.ibm.com
+1622519776601,71,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,17433,10,10,71,1,0,oc1648641228.ibm.com
+1622519776638,37,499 - /selenium/simple-form (),200,OK,Thread Group 1-4,true,,4534,10,10,37,1,0,oc1648641228.ibm.com
+1622519776602,73,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,17428,10,10,73,1,0,oc1648641228.ibm.com
+1622519776642,36,481 - /selenium (),200,OK,Thread Group 1-1,true,,12904,10,10,36,1,0,oc1648641228.ibm.com
+1622519776647,32,515 - /selenium/frame1 (),200,OK,Thread Group 1-8,true,,2176,10,10,32,1,0,oc1648641228.ibm.com
+1622519776657,24,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-7,true,,12544,10,10,24,1,0,oc1648641228.ibm.com
+1622519776623,57,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-7,true,,18883,10,10,57,1,0,oc1648641228.ibm.com
+1622519776654,29,499 - /selenium/simple-form (),200,OK,Thread Group 1-3,true,,4534,10,10,29,1,0,oc1648641228.ibm.com
+1622519776623,60,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,17437,10,10,60,1,0,oc1648641228.ibm.com
+1622519776664,26,528 - /selenium/login-form (),200,OK,Thread Group 1-6,true,,3845,10,10,26,1,0,oc1648641228.ibm.com
+1622519776664,26,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,true,,3845,10,10,26,1,0,oc1648641228.ibm.com
+1622519776663,29,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-5,true,,12544,10,10,29,1,0,oc1648641228.ibm.com
+1622519776623,69,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,18883,10,10,69,1,0,oc1648641228.ibm.com
+1622519776667,29,516 - /selenium/frame2 (),200,OK,Thread Group 1-10,true,,2183,10,10,29,1,0,oc1648641228.ibm.com
+1622519776592,104,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,true,,7142,10,10,104,1,0,oc1648641228.ibm.com
+1622519776672,36,508 - /selenium/iframes (),200,OK,Thread Group 1-2,true,,2783,10,10,36,1,0,oc1648641228.ibm.com
+1622519776672,36,508 - /selenium/iframes (),200,OK,Thread Group 1-9,true,,2783,10,10,36,1,0,oc1648641228.ibm.com
+1622519776678,43,499 - /selenium/simple-form (),200,OK,Thread Group 1-1,true,,4534,10,10,43,1,0,oc1648641228.ibm.com
+1622519776642,79,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,17438,10,10,79,1,0,oc1648641228.ibm.com
+1622519776679,42,516 - /selenium/frame2 (),200,OK,Thread Group 1-8,true,,2183,10,10,42,1,0,oc1648641228.ibm.com
+1622519776681,40,548 - /selenium/upload (),200,OK,Thread Group 1-7,true,,3219,10,10,40,1,0,oc1648641228.ibm.com
+1622519776675,46,508 - /selenium/iframes (),200,OK,Thread Group 1-4,true,,2783,10,10,46,1,0,oc1648641228.ibm.com
+1622519776681,40,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,true,,3219,10,10,40,1,0,oc1648641228.ibm.com
+1622519776616,104,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-8,true,,7142,10,10,104,1,0,oc1648641228.ibm.com
+1622519776683,38,508 - /selenium/iframes (),200,OK,Thread Group 1-3,true,,2783,10,10,38,1,0,oc1648641228.ibm.com
+1622519776697,33,528 - /selenium/login-form (),200,OK,Thread Group 1-10,true,,3845,9,9,33,1,0,oc1648641228.ibm.com
+1622519776693,35,548 - /selenium/upload (),200,OK,Thread Group 1-5,true,,3219,9,9,35,1,0,oc1648641228.ibm.com
+1622519776690,37,537 - /selenium/tables (),200,OK,Thread Group 1-6,true,,6339,9,9,37,1,0,oc1648641228.ibm.com
+1622519776696,33,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,true,,3845,9,9,33,1,0,oc1648641228.ibm.com
+1622519776692,35,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,true,,3219,9,9,35,1,0,oc1648641228.ibm.com
+1622519776708,31,515 - /selenium/frame1 (),200,OK,Thread Group 1-9,true,,2176,9,9,31,1,0,oc1648641228.ibm.com
+1622519776708,31,515 - /selenium/frame1 (),200,OK,Thread Group 1-2,true,,2176,9,9,31,1,0,oc1648641228.ibm.com
+1622519776721,36,528 - /selenium/login-form (),200,OK,Thread Group 1-8,true,,3845,9,9,36,1,0,oc1648641228.ibm.com
+1622519776722,35,515 - /selenium/frame1 (),200,OK,Thread Group 1-3,true,,2176,9,9,35,1,0,oc1648641228.ibm.com
+1622519776721,36,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,true,,3845,9,9,36,1,0,oc1648641228.ibm.com
+1622519776721,36,515 - /selenium/frame1 (),200,OK,Thread Group 1-4,true,,2176,9,9,36,1,0,oc1648641228.ibm.com
+1622519776721,39,508 - /selenium/iframes (),200,OK,Thread Group 1-1,true,,2783,9,9,39,1,0,oc1648641228.ibm.com
+1622519776732,33,481 - /selenium (),200,OK,Thread Group 1-5,true,,12896,9,9,33,1,0,oc1648641228.ibm.com
+1622519776732,35,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-6,true,,12544,9,9,35,1,0,oc1648641228.ibm.com
+1622519776690,72,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-6,true,,18883,9,9,72,1,0,oc1648641228.ibm.com
+1622519776732,38,537 - /selenium/tables (),200,OK,Thread Group 1-10,true,,6339,9,9,38,1,0,oc1648641228.ibm.com
+1622519776740,30,516 - /selenium/frame2 (),200,OK,Thread Group 1-9,true,,2183,9,9,30,1,0,oc1648641228.ibm.com
+1622519776672,97,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-9,true,,7142,9,9,97,1,0,oc1648641228.ibm.com
+1622519776740,30,516 - /selenium/frame2 (),200,OK,Thread Group 1-2,true,,2183,9,9,30,1,0,oc1648641228.ibm.com
+1622519776672,97,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,true,,7142,9,9,97,1,0,oc1648641228.ibm.com
+1622519776757,32,537 - /selenium/tables (),200,OK,Thread Group 1-8,true,,6339,9,9,32,1,0,oc1648641228.ibm.com
+1622519776757,32,516 - /selenium/frame2 (),200,OK,Thread Group 1-3,true,,2183,9,9,32,1,0,oc1648641228.ibm.com
+1622519776683,105,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,true,,7142,9,9,105,1,0,oc1648641228.ibm.com
+1622519776757,32,516 - /selenium/frame2 (),200,OK,Thread Group 1-4,true,,2183,9,9,32,1,0,oc1648641228.ibm.com
+1622519776675,114,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,true,,7142,9,9,114,1,0,oc1648641228.ibm.com
+1622519776760,34,515 - /selenium/frame1 (),200,OK,Thread Group 1-1,true,,2176,9,9,34,1,0,oc1648641228.ibm.com
+1622519776765,32,499 - /selenium/simple-form (),200,OK,Thread Group 1-5,true,,4534,9,9,32,1,0,oc1648641228.ibm.com
+1622519776732,65,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,17430,9,9,65,1,0,oc1648641228.ibm.com
+1622519776767,32,548 - /selenium/upload (),200,OK,Thread Group 1-6,true,,3219,9,9,32,1,0,oc1648641228.ibm.com
+1622519776767,32,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,true,,3219,9,9,32,1,0,oc1648641228.ibm.com
+1622519776770,35,528 - /selenium/login-form (),200,OK,Thread Group 1-9,true,,3845,8,8,35,1,0,oc1648641228.ibm.com
+1622519776770,35,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,true,,3845,8,8,35,1,0,oc1648641228.ibm.com
+1622519776771,34,528 - /selenium/login-form (),200,OK,Thread Group 1-2,true,,3845,8,8,34,1,0,oc1648641228.ibm.com
+1622519776770,35,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-10,true,,12544,8,8,35,1,0,oc1648641228.ibm.com
+1622519776771,34,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,true,,3845,8,8,34,1,0,oc1648641228.ibm.com
+1622519776732,73,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,18883,8,8,73,1,0,oc1648641228.ibm.com
+1622519776789,29,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-8,true,,12544,8,8,29,1,0,oc1648641228.ibm.com
+1622519776757,61,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-8,true,,18883,8,8,61,1,0,oc1648641228.ibm.com
+1622519776789,32,528 - /selenium/login-form (),200,OK,Thread Group 1-4,true,,3845,8,8,32,1,0,oc1648641228.ibm.com
+1622519776789,32,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,true,,3845,8,8,32,1,0,oc1648641228.ibm.com
+1622519776789,34,528 - /selenium/login-form (),200,OK,Thread Group 1-3,true,,3845,8,8,34,1,0,oc1648641228.ibm.com
+1622519776789,34,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,true,,3845,8,8,34,1,0,oc1648641228.ibm.com
+1622519776795,31,516 - /selenium/frame2 (),200,OK,Thread Group 1-1,true,,2183,8,8,31,1,0,oc1648641228.ibm.com
+1622519776721,104,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,true,,7142,8,8,104,1,0,oc1648641228.ibm.com
+1622519776798,30,508 - /selenium/iframes (),200,OK,Thread Group 1-5,true,,2783,8,8,30,1,0,oc1648641228.ibm.com
+1622519776805,30,537 - /selenium/tables (),200,OK,Thread Group 1-9,true,,6339,8,8,30,1,0,oc1648641228.ibm.com
+1622519776805,30,537 - /selenium/tables (),200,OK,Thread Group 1-2,true,,6339,8,8,30,1,0,oc1648641228.ibm.com
+1622519776805,33,548 - /selenium/upload (),200,OK,Thread Group 1-10,true,,3219,8,8,33,1,0,oc1648641228.ibm.com
+1622519776805,33,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,true,,3219,8,8,33,1,0,oc1648641228.ibm.com
+1622519776818,28,548 - /selenium/upload (),200,OK,Thread Group 1-8,true,,3219,8,8,28,1,0,oc1648641228.ibm.com
+1622519776818,28,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,true,,3219,8,8,28,1,0,oc1648641228.ibm.com
+1622519776822,28,537 - /selenium/tables (),200,OK,Thread Group 1-4,true,,6339,7,7,28,1,0,oc1648641228.ibm.com
+1622519776823,30,537 - /selenium/tables (),200,OK,Thread Group 1-3,true,,6339,7,7,30,1,0,oc1648641228.ibm.com
+1622519776826,33,528 - /selenium/login-form (),200,OK,Thread Group 1-1,true,,3845,7,7,33,1,0,oc1648641228.ibm.com
+1622519776826,33,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3845,7,7,33,1,0,oc1648641228.ibm.com
+1622519776836,26,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-2,true,,12544,7,7,26,1,0,oc1648641228.ibm.com
+1622519776805,56,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,true,,18883,7,7,56,1,0,oc1648641228.ibm.com
+1622519776836,27,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-9,true,,12544,7,7,27,1,0,oc1648641228.ibm.com
+1622519776805,57,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-9,true,,18883,7,7,57,1,0,oc1648641228.ibm.com
+1622519776828,36,515 - /selenium/frame1 (),200,OK,Thread Group 1-5,true,,2176,7,7,36,1,0,oc1648641228.ibm.com
+1622519776838,31,481 - /selenium (),200,OK,Thread Group 1-10,true,,12887,7,7,31,1,0,oc1648641228.ibm.com
+1622519776851,27,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-4,true,,12544,7,7,27,1,0,oc1648641228.ibm.com
+1622519776822,55,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,true,,18883,7,7,55,1,0,oc1648641228.ibm.com
+1622519776853,27,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-3,true,,12544,7,7,27,1,0,oc1648641228.ibm.com
+1622519776823,57,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,true,,18883,7,7,57,1,0,oc1648641228.ibm.com
+1622519776859,29,537 - /selenium/tables (),200,OK,Thread Group 1-1,true,,6339,7,7,29,1,0,oc1648641228.ibm.com
+1622519776863,34,548 - /selenium/upload (),200,OK,Thread Group 1-2,true,,3219,7,7,34,1,0,oc1648641228.ibm.com
+1622519776862,34,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,true,,3219,7,7,34,1,0,oc1648641228.ibm.com
+1622519776863,35,548 - /selenium/upload (),200,OK,Thread Group 1-9,true,,3219,6,6,35,1,0,oc1648641228.ibm.com
+1622519776865,33,516 - /selenium/frame2 (),200,OK,Thread Group 1-5,true,,2183,6,6,33,1,0,oc1648641228.ibm.com
+1622519776863,35,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,true,,3219,6,6,35,1,0,oc1648641228.ibm.com
+1622519776798,99,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,true,,7142,6,6,99,1,0,oc1648641228.ibm.com
+1622519776869,31,499 - /selenium/simple-form (),200,OK,Thread Group 1-10,true,,4534,5,5,31,1,0,oc1648641228.ibm.com
+1622519776838,62,Simple Form Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,17421,5,5,62,1,0,oc1648641228.ibm.com
+1622519776880,32,548 - /selenium/upload (),200,OK,Thread Group 1-3,true,,3219,5,5,32,1,0,oc1648641228.ibm.com
+1622519776880,32,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,true,,3219,5,5,32,1,0,oc1648641228.ibm.com
+1622519776878,35,548 - /selenium/upload (),200,OK,Thread Group 1-4,true,,3219,4,4,35,1,0,oc1648641228.ibm.com
+1622519776878,35,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,true,,3219,4,4,35,1,0,oc1648641228.ibm.com
+1622519776888,28,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-1,true,,12544,3,3,28,1,0,oc1648641228.ibm.com
+1622519776859,57,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,true,,18883,3,3,57,1,0,oc1648641228.ibm.com
+1622519776898,31,528 - /selenium/login-form (),200,OK,Thread Group 1-5,true,,3845,3,3,31,1,0,oc1648641228.ibm.com
+1622519776898,31,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,true,,3845,3,3,31,1,0,oc1648641228.ibm.com
+1622519776901,32,508 - /selenium/iframes (),200,OK,Thread Group 1-10,true,,2783,3,3,32,1,0,oc1648641228.ibm.com
+1622519776916,32,548 - /selenium/upload (),200,OK,Thread Group 1-1,true,,3219,3,3,32,1,0,oc1648641228.ibm.com
+1622519776916,32,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,true,,3219,3,3,32,1,0,oc1648641228.ibm.com
+1622519776930,31,537 - /selenium/tables (),200,OK,Thread Group 1-5,true,,6339,2,2,31,1,0,oc1648641228.ibm.com
+1622519776933,32,515 - /selenium/frame1 (),200,OK,Thread Group 1-10,true,,2176,2,2,32,1,0,oc1648641228.ibm.com
+1622519776962,30,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-5,true,,12544,2,2,30,1,0,oc1648641228.ibm.com
+1622519776929,61,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,true,,18883,2,2,61,1,0,oc1648641228.ibm.com
+1622519776965,31,516 - /selenium/frame2 (),200,OK,Thread Group 1-10,true,,2183,2,2,31,1,0,oc1648641228.ibm.com
+1622519776900,95,IFrames Page,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-10,true,,7142,2,2,95,1,0,oc1648641228.ibm.com
+1622519776993,32,548 - /selenium/upload (),200,OK,Thread Group 1-5,true,,3219,2,2,32,1,0,oc1648641228.ibm.com
+1622519776993,32,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,true,,3219,2,2,32,1,0,oc1648641228.ibm.com
+1622519776996,32,528 - /selenium/login-form (),200,OK,Thread Group 1-10,true,,3845,1,1,32,1,0,oc1648641228.ibm.com
+1622519776996,32,Login Form Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,true,,3845,1,1,32,1,0,oc1648641228.ibm.com
+1622519777028,33,537 - /selenium/tables (),200,OK,Thread Group 1-10,true,,6339,1,1,33,1,0,oc1648641228.ibm.com
+1622519777061,30,546 - /lib/semantic/themes/default/assets/fonts/outline-icons.woff2 (),200,OK,Thread Group 1-10,true,,12544,1,1,30,1,0,oc1648641228.ibm.com
+1622519777028,63,Tables Page,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-10,true,,18883,1,1,63,1,0,oc1648641228.ibm.com
+1622519777092,30,548 - /selenium/upload (),200,OK,Thread Group 1-10,true,,3219,1,1,30,1,0,oc1648641228.ibm.com
+1622519777092,30,File Upload Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,true,,3219,1,1,30,1,0,oc1648641228.ibm.com
