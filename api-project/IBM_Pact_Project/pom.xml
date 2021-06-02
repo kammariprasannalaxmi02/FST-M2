@@ -1,0 +1,78 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>ibm.pact.project</groupId>
+	<artifactId>IBM_Pact_Project</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>IBM_Pact_Project</name>
+	<properties>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+	</properties>
+	<build>
+		<plugins>
+			<plugin>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>2.22.2</version>
+			</plugin>
+			<plugin>
+				<artifactId>maven-failsafe-plugin</artifactId>
+				<version>2.22.2</version>
+			</plugin>
+		</plugins>
+	</build>
+	<dependencies>
+		<!-- JUnit -->
+		<dependency>
+			<groupId>org.junit.jupiter</groupId>
+			<artifactId>junit-jupiter-api</artifactId>
+			<version>5.7.1</version>
+			<scope>test</scope>
+		</dependency>
+		<!-- RESTAssured -->
+		<dependency>
+			<groupId>io.rest-assured</groupId>
+			<artifactId>rest-assured</artifactId>
+			<version>4.3.3</version>
+			<scope>test</scope>
+		</dependency>
+		<!-- JSON Schema Validator -->
+		<dependency>
+			<groupId>io.rest-assured</groupId>
+			<artifactId>json-schema-validator</artifactId>
+			<version>4.3.3</version>
+		</dependency>
+		<!-- Pact Consumer -->
+		<dependency>
+			<groupId>au.com.dius</groupId>
+			<artifactId>pact-jvm-consumer-junit5</artifactId>
+			<version>4.0.10</version>
+		</dependency>
+		<!-- Pact Provider -->
+		<dependency>
+			<groupId>au.com.dius</groupId>
+			<artifactId>pact-jvm-provider-junit5</artifactId>
+			<version>4.0.10</version>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>1.7.30</version>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-log4j12</artifactId>
+			<version>1.7.30</version>
+		</dependency>
+	</dependencies>
+	<reporting>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-report-plugin</artifactId>
+				<version>2.22.0</version>
+			</plugin>
+		</plugins>
+	</reporting>
+</project>
